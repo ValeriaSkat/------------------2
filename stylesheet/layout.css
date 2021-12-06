@@ -5,3 +5,8 @@ body {
   margin: 0 auto;
   background-color: #F2F2F2;
 }
+.gif1 {
+    object-fit: cover;
+    width: 349px;
+    height: 63px;
+}
