@@ -35,13 +35,13 @@ body {
 .book2 {
   margin: 0 auto;
   position: absolute;
-  z-index: 2;
+  z-index: 3;
   margin-left: -49px;
   margin-top: -365px;
 }
 .t2 {
   position: relative;
-  z-index: 3;
+  z-index: 4;
   margin-left: 35px;
   margin-top: -478px;
   font-family: "Century", serif;
@@ -51,7 +51,7 @@ body {
 }
 .t3 {
   position: relative;
-  z-index: 4;
+  z-index: 5;
   margin-left: 61px;
   margin-top: 11px;
   font-family: "Century", serif;
@@ -61,11 +61,26 @@ body {
 }
 .t4 {
   position: relative;
-  z-index: 5;
+  z-index: 6;
   margin-left: 47px;
   margin-top: 351px;
   font-family: "Century", serif;
   font-weight: 100;
   font-size: 20px;
   color: #33374B;
+}
+.book3 {
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+  margin-left: -33px;
+  margin-top: -212px;
+  animation-name: walk;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+@keyframes walk {
+  0%{ transform: translate(0,0)}
+  100%{transform: translate(71,0) }
 }
