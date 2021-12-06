@@ -34,9 +34,38 @@ body {
 }
 .book2 {
   margin: 0 auto;
-  position: relative;
+  position: absolute;
   z-index: 2;
   margin-left: -49px;
-  margin-top: -389px;
-
+  margin-top: -365px;
+}
+.t2 {
+  position: relative;
+  z-index: 3;
+  margin-left: 35px;
+  margin-top: -478px;
+  font-family: "Century", serif;
+  font-weight: 100;
+  font-size: 44px;
+  color: #33374B;
+}
+.t3 {
+  position: relative;
+  z-index: 4;
+  margin-left: 61px;
+  margin-top: 11px;
+  font-family: "Century", serif;
+  font-weight: 100;
+  font-size: 19px;
+  color: #33374B;
+}
+.t4 {
+  position: relative;
+  z-index: 5;
+  margin-left: 47px;
+  margin-top: 351px;
+  font-family: "Century", serif;
+  font-weight: 100;
+  font-size: 20px;
+  color: #33374B;
 }
