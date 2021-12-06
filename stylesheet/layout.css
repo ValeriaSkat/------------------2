@@ -1,7 +1,5 @@
 body {
   overflow-x: hidden;
-  height: 100%;
-  max-height: 14142px;
-  font-family: "Bebas Neue", sans-serif;
-  font-style: normal;
+  width: 1920px;
+  /*height: 2911px;*/
 }
