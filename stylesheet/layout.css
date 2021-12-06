@@ -11,11 +11,15 @@ body {
   margin-right: 87px;
 }
 .gif1 {
+    position: relative;
+    z-index: -2;
     object-fit: cover;
     width: 349px;
     height: 63px;
 }
 .t1 {
+  position: relative;
+  z-index: -1;
   margin-left: 50.07px;
   margin-top: 49px;
   font-family: "Century", serif;
@@ -23,5 +27,16 @@ body {
   font-size: 28px;
 }
 .book1 {
-  
+  margin-left: 401.18px;
+  position: relative;
+  z-index: 1;
+  margin-top: -197px;
+}
+.book2 {
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+  margin-left: -49px;
+  margin-top: -389px;
+
 }
