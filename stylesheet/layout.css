@@ -5,8 +5,20 @@ body {
   margin: 0 auto;
   background-color: #F2F2F2;
 }
+.b1 {
+  margin-left: 87px;
+  margin-top: 41px;
+  margin-right: 87px;
+}
 .gif1 {
     object-fit: cover;
     width: 349px;
     height: 63px;
+}
+.t1 {
+  margin-left: 50.07px;
+  margin-top: 49px;
+  font-family: "Century", serif;
+  font-weight: 100;
+  font-size: 28px;
 }

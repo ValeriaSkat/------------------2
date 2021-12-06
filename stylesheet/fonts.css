@@ -26,3 +26,8 @@
   src: url("/fonts/BebasNeue-Thin.woff") format("woff");
   font-weight: 100;*/
 }
+@font-face {
+  font-family: "Century";
+  src: url("../Проект вариантивы/fonts/ofont.ru_Century.woff") format("woff");
+  font-weight: 100;
+}
