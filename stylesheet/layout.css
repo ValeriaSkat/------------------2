@@ -70,17 +70,14 @@ body {
   color: #33374B;
 }
 .book3 {
-  margin: 0 auto;
+
   position: relative;
   z-index: 2;
   margin-left: -33px;
   margin-top: -212px;
-  animation-name: walk;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
+  animation: walk .2s steps(1)  infinite;
 }
 @keyframes walk {
-  0%{ transform: translate(0,0)}
-  100%{transform: translate(71,0) }
+  0%{ background-position:   0px top;}
+  100%{ background-position:  71px top;}
 }
