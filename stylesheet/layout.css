@@ -75,7 +75,7 @@ body {
   margin-left: -33px;
   margin-top: -212px;
   background: url('../Проект вариантивы/img/book1.3.png');
-  animation: walk 2s linear  infinite;
+  animation: walk 2s linear infinite;
 }
 @keyframes walk {
   0%{ right: 0 top;}
