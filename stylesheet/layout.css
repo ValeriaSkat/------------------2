@@ -74,9 +74,10 @@ body {
   z-index: 2;
   margin-left: -33px;
   margin-top: -212px;
-  animation: walk .2s steps(1)  infinite;
+  background: url('../Проект вариантивы/img/book1.3.png');
+  animation: walk 2s linear  infinite;
 }
 @keyframes walk {
-  0%{ background-position:   0px top;}
-  100%{ background-position:  71px top;}
+  0%{ right: 0 top;}
+  100%{ right:  -10% top;}
 }
