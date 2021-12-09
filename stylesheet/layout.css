@@ -181,7 +181,7 @@ body {
 .t9 {
   position: relative;
   z-index: 18;
-  margin-top: 282px;
+  margin-top: 269px;
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-weight: 500;
   font-size: 26px;
@@ -203,6 +203,14 @@ body {
   margin-top: -455px;
 }
 .book9 {
-  margin-top: -380px;
-  margin-left: 60px;
+  position: absolute;
+  z-index: 21;
+  margin-top: -304px;
+  margin-left: 38px;
+}
+.book10 {
+  position: absolute;
+  z-index: 20;
+  margin-top: -304px;
+  margin-left: 38px;
 }
