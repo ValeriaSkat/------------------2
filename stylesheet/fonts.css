@@ -8,3 +8,13 @@
   src: url("../Проект вариантивы/fonts/Spectral-Regular-Desktop.woff") format("woff");
   font-weight: 200;
 }
+@font-face {
+  font-family: "Apoc Regular";
+  src: url("../Проект вариантивы/fonts/Apoc-Regular-Trial.woff") format("woff");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Apoc Italic Bold";
+  src: url("../Проект вариантивы/fonts/Apoc-Bold-Italic-Trial.woff") format("woff");
+  font-weight: 300;
+}
