@@ -234,9 +234,34 @@ body {
 .t11 {
   position: relative;
   z-index: 24;
-  margin-top: 4px;
+  margin-top: -481px;
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-weight: 500;
   font-size: 25px;
   letter-spacing: 2px;
+  line-height: 1;
+  margin-left: 37.42px;
+}
+.t12 {
+  position: relative;
+  z-index: 24;
+  margin-top: 10px;
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-size: 14px;
+  font-style: italic;
+  margin-left: 37.42px;
+}
+.book13 {
+  z-index: 25;
+  position: absolute;
+  margin-left: 77px;
+  margin-top: 30px;
+  background: url('../Проект вариантивы/img/book5.2.png');
+  animation: verh 3s alternate infinite;
+}
+.book14 {
+  z-index: 26;
+  position: absolute;
+  margin-left: 29px;
+  margin-top: 30px;
 }
