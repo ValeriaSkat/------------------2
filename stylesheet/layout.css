@@ -104,3 +104,40 @@ body {
   width: 321px;
   height: 495px;
 }
+.t5 {
+  position: relative;
+  z-index: 10;
+
+  margin-top: -120px;
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-size: 19px;
+  color: #7F3A14;
+}
+.t6 {
+  position: relative;
+  z-index: 11;
+
+  /*margin-top: 351px;*/
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-size: 25px;
+  color: #301607;
+}
+.t7 {
+  position: relative;
+  z-index: 12;
+
+  /*margin-top: 351px;*/
+  font-family: "Spectral", serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: #7F3A14;
+}
+.bt {
+  margin-left: -642px;
+}
+.book5 {
+  max-width: 227.86px;
+  max-height: 239px;
+}
