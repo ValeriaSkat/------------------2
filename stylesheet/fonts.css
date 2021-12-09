@@ -3,3 +3,8 @@
   src: url("../Проект вариантивы/fonts/ofont.ru_Century.woff") format("woff");
   font-weight: 100;
 }
+@font-face {
+  font-family: "Spectral";
+  src: url("../Проект вариантивы/fonts/Spectral-Regular-Desktop.woff") format("woff");
+  font-weight: 200;
+}
