@@ -10,11 +10,19 @@
 }
 @keyframes fly {
   0%{
-    translate(350px, -150px)}
-  50% {
-    right: 82%;
-    transform: rotate(18deg);
-  }
-  100%{ right: 78%;
-  transform: rotate(10deg);}
+    left: 0%;
+    top:  333px;
+    }
+  100%{
+    left: -15%;
+    top: 170px;}
+}
+@keyframes fly2 {
+  0%{
+    left: 0%;
+    top:  310px;
+    }
+  100%{
+    left: 15%;
+    top: 173px;}
 }

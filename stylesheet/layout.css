@@ -144,7 +144,7 @@ body {
   z-index: 13;
   position: absolute;
   margin-left: 150px;
-  background: url('../Проект вариантивы/img/book2.2.png');
+  background: url('../Проект вариантивы/img/book2.3.png');
   animation: fly 4s alternate infinite;
 }
 .book7 {
@@ -152,4 +152,6 @@ body {
   z-index: 14;
   position: absolute;
   margin-left: 20px;
+  background: url('../Проект вариантивы/img/book2.4.png');
+  animation: fly2 4s alternate infinite;
 }
