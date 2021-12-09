@@ -93,9 +93,14 @@ body {
   margin-left: 82px;
   margin-top: -56px;
 }
-.book3 {
+.book4 {
   margin-left: 796px;
   position: relative;
   z-index: 9;
-  margin-top: -479px;
+  margin-top: -465px;
+
+}
+.book4 img {
+  width: 321px;
+  height: 495px;
 }
