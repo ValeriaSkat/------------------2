@@ -100,10 +100,6 @@ body {
   margin-top: -465px;
 
 }
-.book4 img {
-  width: 321px;
-  height: 495px;
-}
 .t5 {
   position: relative;
   z-index: 10;
@@ -140,4 +136,18 @@ body {
 .book5 {
   max-width: 227.86px;
   max-height: 239px;
+  margin-top: -380px;
+  margin-left: 60px;
+}
+.book6 {
+  margin-top: -150px;
+  z-index: 13;
+  position: absolute;
+  margin-left: 150px;
+}
+.book7 {
+  margin-top: -150px;
+  z-index: 14;
+  position: absolute;
+  margin-left: 150px;
 }
