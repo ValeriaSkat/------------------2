@@ -225,3 +225,9 @@ body {
     z-index: 22;
     position: absolute;
 }
+.book12 {
+    z-index: 23;
+    position: relative;
+    margin-left: 559px;
+    margin-top: -506px;
+}
