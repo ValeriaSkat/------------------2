@@ -181,7 +181,7 @@ body {
 .t9 {
   position: relative;
   z-index: 18;
-  /*margin-top: 351px;*/
+  margin-top: 282px;
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-weight: 500;
   font-size: 26px;
@@ -191,9 +191,14 @@ body {
 .t10 {
   position: relative;
   z-index: 19;
-  /*margin-top: 351px;*/
+  margin-top: 4px;
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-weight: 500;
   font-size: 26px;
   color: #C48643;
+  letter-spacing: 1px;
+}
+.bt2 {
+  margin-left: -234px;
+  margin-top: -455px;
 }
