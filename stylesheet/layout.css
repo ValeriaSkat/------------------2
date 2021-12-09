@@ -160,6 +160,12 @@ body {
   height: 486.14px;
   z-index: 15;
   position: relative;
-  margin-left: 1193px;
-  margin-top: -323px;
+  margin-left: 387px;
+  margin-top: -499px;
+}
+.book8 {
+  margin-left: 1193.18px;
+  position: relative;
+  z-index: 16;
+  margin-top: -325px;
 }
