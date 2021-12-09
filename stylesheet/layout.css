@@ -160,8 +160,8 @@ body {
   height: 486.14px;
   z-index: 15;
   position: relative;
-  margin-left: 387px;
-  margin-top: -499px;
+  margin-left: 1596px;
+  margin-top: -438px;
 }
 .book8 {
   margin-left: 1193.18px;
@@ -211,6 +211,17 @@ body {
 .book10 {
   position: absolute;
   z-index: 20;
-  margin-top: -304px;
-  margin-left: 38px;
+  margin-top: -267px;
+  margin-left: 89px;
+  background: url('../Проект вариантивы/img/book2.4.png');
+  animation: stand 3s alternate infinite;
+}
+.b2 {
+  margin-left: 87px;
+  margin-top: 42.62px;
+  margin-right: 87px;
+}
+.book11 {
+    z-index: 22;
+    position: absolute;
 }
