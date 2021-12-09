@@ -8,3 +8,13 @@
   100%{ right: 78%;
   transform: rotate(10deg);}
 }
+@keyframes fly {
+  0%{
+    translate(350px, -150px)}
+  50% {
+    right: 82%;
+    transform: rotate(18deg);
+  }
+  100%{ right: 78%;
+  transform: rotate(10deg);}
+}
