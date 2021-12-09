@@ -77,13 +77,3 @@ body {
   background: url('../Проект вариантивы/img/book1.3.png');
   animation: walk 2s alternate infinite;
 }
-@keyframes walk {
-  0%{ right: 85%;
-  transform: rotate(0deg);}
-  50% {
-    right: 82%;
-    transform: rotate(18deg);
-  }
-  100%{ right: 78%;
-  transform: rotate(10deg);}
-}
