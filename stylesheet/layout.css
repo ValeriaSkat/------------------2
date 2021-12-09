@@ -171,10 +171,29 @@ body {
 }
 .t8 {
   position: relative;
-  z-index: 12;
+  z-index: 17;
   /*margin-top: 351px;*/
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-weight: 500;
   font-size: 35px;
+  color: #C48643;
+}
+.t9 {
+  position: relative;
+  z-index: 18;
+  /*margin-top: 351px;*/
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-weight: 500;
+  font-size: 26px;
+  color: #C48643;
+  font-style: italic;
+}
+.t10 {
+  position: relative;
+  z-index: 19;
+  /*margin-top: 351px;*/
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-weight: 500;
+  font-size: 26px;
   color: #C48643;
 }
