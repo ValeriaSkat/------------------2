@@ -9,7 +9,7 @@
   font-weight: 200;
 }
 @font-face {
-  font-family: "Apoc Regular";
+  font-family: "Apoc-Regular-Trial";
   src: url("../Проект вариантивы/fonts/Apoc-Regular-Trial.woff") format("woff");
   font-weight: 300;
 }
@@ -17,4 +17,9 @@
   font-family: "Apoc Italic Bold";
   src: url("../Проект вариантивы/fonts/Apoc-Bold-Italic-Trial.woff") format("woff");
   font-weight: 400;
+}
+@font-face {
+  font-family: "Apoc-Apoc-Full-Variable-Trial";
+  src: url("../Проект вариантивы/fonts/Apoc-Apoc-Full-Variable-Trial.woff") format("woff");
+  font-weight: 500;
 }

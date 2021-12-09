@@ -169,3 +169,12 @@ body {
   z-index: 16;
   margin-top: -325px;
 }
+.t8 {
+  position: relative;
+  z-index: 12;
+  /*margin-top: 351px;*/
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-weight: 500;
+  font-size: 35px;
+  color: #C48643;
+}
