@@ -77,3 +77,19 @@ body {
   background: url('../Проект вариантивы/img/book1.3.png');
   animation: walk 2s alternate infinite;
 }
+.p1 {
+  width: 233.01px;
+  height: 233.01px;
+  z-index: 7;
+  position: relative;
+  margin-left: 114px;
+  margin-top: 2px;
+}
+.p2 {
+  width: 128.7px;
+  height: 105px;
+  z-index: 8;
+  position: relative;
+  margin-left: 82px;
+  margin-top: -56px;
+}
