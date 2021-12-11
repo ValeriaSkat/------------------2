@@ -43,3 +43,27 @@
     animation-timing-function: ease-out;
     transform: translate(0,40px)
 }
+}
+@keyframes go {
+  0%{
+      transform: translate(0,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(0,40px)
+}
+}
+@keyframes stir {
+  0%{
+      transform: rotate(0deg);
+      transform: translate(0,0px);
+    }
+  50%{
+    transform: rotate(20deg);
+    transform: translate(40,20px);
+  }
+  100%{
+    animation-timing-function: ease-out;
+      transform: rotate(0deg);
+    transform: translate(0,0px)
+}
