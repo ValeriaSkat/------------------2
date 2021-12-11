@@ -269,3 +269,25 @@ body {
   background: url('../Проект вариантивы/img/book5.3.png');
   animation: go 4s alternate infinite;
 }
+.book15 {
+    z-index: 27;
+    position: relative;
+    margin-left: 961px;
+    margin-top: -130px;
+}
+.t13 {
+  position: relative;
+  z-index: 28;
+  margin-top: -464px;
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-size: 21px;
+  color: #6F3311;
+}
+.t14 {
+  position: relative;
+  z-index: 28;
+  margin-top: 10px;
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-size: 25px;
+  color: #6F3311;
+}
