@@ -297,4 +297,14 @@ body {
     margin-left: 41.3px;
     margin-top: 24.97px;
 }
-.book17 
+.book17 {
+    z-index: 31;
+    position: absolute;
+    margin-left: 41.3px;
+    margin-top: 24.97px;
+    width: 220.89px;
+    height: 248.74px;
+    background: url('../Проект вариантивы/img/book6.3.png');
+  /*  background-position: -68px top;*/;
+    animation: light .7s steps(1)  infinite;
+}
