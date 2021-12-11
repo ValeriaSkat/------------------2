@@ -68,18 +68,14 @@
     transform: translate(0,0px)
 }
 }
-@keyframes stir {
+@keyframes light {
   0%{
-      transform: rotate(0deg);
-      transform: translate(0,0px);
+    background-position: -0px;
     }
   50%{
-    transform: rotate(20deg);
-    transform: translate(40,20px);
+    background-position: -51px;
   }
   100%{
-    animation-timing-function: ease-out;
-      transform: rotate(0deg);
-    transform: translate(0,0px)
+    background-position: -100px;
 }
 }
