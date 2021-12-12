@@ -578,3 +578,30 @@ body {
   margin-left: 315px;
   margin-top: -445.38px;
 }
+.t25 {
+  position: relative;
+  z-index: 62;
+  margin-top: -435px;
+  font-family: "Spectral", serif;
+  font-size: 29px;
+  color: #B7D7E0;
+  margin-left: 107px;
+}
+.t26 {
+  position: relative;
+  z-index: 62;
+  margin-top: -1px;
+  font-family: "Spectral", serif;
+  font-size: 29px;
+  color: #B7D7E0;
+  margin-left: 112px;
+}
+.t27 {
+  position: relative;
+  z-index: 63;
+  margin-top: 6px;
+  font-family: "Times New Roman", serif;
+  font-size: 17px;
+  color: #B7D7E0;
+  margin-left: 67px;
+}
