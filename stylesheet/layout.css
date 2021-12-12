@@ -641,8 +641,13 @@ body {
 }
 .book47 {
   z-index: 67;
-  margin-left: 38px;
+  margin-left: 103px;
   margin-top: -390px;
   background: url('../Проект вариантивы/img/book13.2.png');
   animation: broke 4s alternate infinite;
+}
+.book48 {
+  z-index: 68;
+  margin-left: 1371px;
+  margin-top: -602px;
 }
