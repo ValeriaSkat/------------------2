@@ -28,3 +28,13 @@
   src: url("../Проект вариантивы/fonts/bookantiqua.woff") format("woff");
   font-weight: 600;
 }
+@font-face {
+  font-family: "Book Antiqua";
+  src: url("../Проект вариантивы/fonts/bookantiqua.woff") format("woff");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "BebasNeuePro-Regular";
+  src: url("../Проект вариантивы/fonts/BebasNeuePro-Regular.woff") format("woff");
+  font-weight: 800;
+}
