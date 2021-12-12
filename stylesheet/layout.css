@@ -700,3 +700,8 @@ body {
   background: url('../Проект вариантивы/img/book15.4.png');
   animation: vot 4s alternate infinite;
 }
+.book53 {
+  z-index: 75;
+  margin-left: 107px;
+  margin-top: -237px;
+}
