@@ -697,4 +697,6 @@ body {
   z-index: 74;
   margin-left: 231px;
   margin-top: -55px;
+  background: url('../Проект вариантивы/img/book15.4.png');
+  animation: vot 4s alternate infinite;
 }

@@ -198,3 +198,12 @@
   100%{
   transform: rotate(4deg)  translate(-75px,10px);}
 }
+@keyframes vot {
+  0%{
+      transform: translate(0,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(0,-40px)
+}
+}
