@@ -361,5 +361,19 @@ body {
     margin-left: 61px;
     margin-top: -228px;
     background: url('../Проект вариантивы/img/book7.4.png');
-    animation: rost 4s alternate infinite;
+    animation: rost 5s alternate infinite;
+}
+.book21 {
+    z-index: 38;
+    position: relative;
+    margin-left: 137px;
+    margin-top: -138px;
+    background: url('../Проект вариантивы/img/book7.4.png');
+    animation: rost 5s alternate-reverse infinite;
+}
+.book22 {
+    z-index: 39;
+    position: relative;
+    margin-left: 12px;
+    margin-top: -77px;
 }
