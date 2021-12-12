@@ -38,3 +38,8 @@
   src: url("../Проект вариантивы/fonts/BebasNeuePro-Regular.woff") format("woff");
   font-weight: 800;
 }
+@font-face {
+  font-family: "Century Gothic";
+  src: url("../Проект вариантивы/fonts/CenturyGothic.woff") format("woff");
+  font-weight: 900;
+}
