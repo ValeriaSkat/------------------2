@@ -92,3 +92,93 @@
   100%{
   transform: rotate(120deg)  translate(-50px,10px);}
 }
+@keyframes gone {
+  0%{
+      transform: translate(0,0px)
+    }
+  50%{
+      transform: translate(100px,0px)
+    }
+  80%{
+      transform: translate(50px,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(120px,0px)
+}
+}
+@keyframes gone2 {
+  0%{
+      transform: translate(0,0px)
+    }
+  50%{
+      transform: translate(30px,0px)
+    }
+  80%{
+      transform: translate(120px,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(20px,0px)
+}
+}
+@keyframes gone3 {
+  0%{
+      transform: translate(0,0px)
+    }
+  50%{
+      transform: translate(-30px,0px)
+    }
+  80%{
+      transform: translate(10px,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(-45px,0px)
+}
+}
+@keyframes gone4 {
+  0%{
+      transform: translate(0,0px)
+    }
+  50%{
+      transform: translate(-50px,0px)
+    }
+  80%{
+      transform: translate(160px,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(30px,0px)
+}
+}
+@keyframes gone5 {
+  0%{
+      transform: translate(0,0px)
+    }
+  50%{
+      transform: translate(-50px,0px)
+    }
+  80%{
+      transform: translate(120px,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(55px,0px)
+}
+}
+@keyframes gone6 {
+  0%{
+      transform: translate(0,0px)
+    }
+  50%{
+      transform: translate(-70px,0px)
+    }
+  80%{
+      transform: translate(-220px,0px)
+    }
+  100%{
+    animation-timing-function: ease-out;
+    transform: translate(35px,0px)
+}
+}
