@@ -609,13 +609,15 @@ body {
   position: absolute;
   z-index: 64;
   margin-left: 25px;
-  margin-top: 1px;
+  margin-top: -6px;
+  background: url('../Проект вариантивы/img/book12.2.png');
+  animation: batterfly 2s alternate infinite;
 }
 .book43 {
   position: absolute;
   z-index: 64;
   margin-left: 151px;
-  margin-top: 136px;
+  margin-top: 125px;
   background: url('../Проект вариантивы/img/book12.3.png');
   animation: batterfly 3s alternate infinite;
 }
@@ -623,10 +625,12 @@ body {
   position: absolute;
   z-index: 64;
   margin-left: 28px;
-  margin-top: 20px;
+  margin-top: 197px;
+  background: url('../Проект вариантивы/img/book12.4.png');
+  animation: batterfly 4s alternate infinite;
 }
 .book45 {
   z-index: 64;
   margin-left: 38px;
-  margin-top: -300px;
+  margin-top: 25px;
 }
