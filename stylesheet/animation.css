@@ -182,3 +182,11 @@
     transform: translate(35px,0px)
 }
 }
+@keyframes batterfly {
+  0%{
+    transform: scale(10px,10px)
+  }
+  100%{
+    transform: scale(5px,0px)
+  }
+}

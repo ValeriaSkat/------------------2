@@ -606,19 +606,24 @@ body {
   margin-left: 67px;
 }
 .book42 {
+  position: absolute;
   z-index: 64;
   margin-left: 25px;
   margin-top: 1px;
 }
 .book43 {
+  position: absolute;
   z-index: 64;
   margin-left: 151px;
-  margin-top: -45px;
+  margin-top: 136px;
+  background: url('../Проект вариантивы/img/book12.3.png');
+  animation: batterfly 3s alternate infinite;
 }
 .book44 {
+  position: absolute;
   z-index: 64;
   margin-left: 28px;
-  margin-top: -62px;
+  margin-top: 20px;
 }
 .book45 {
   z-index: 64;
