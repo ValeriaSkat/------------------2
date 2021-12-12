@@ -470,3 +470,36 @@ body {
   margin-left: 1196px;
   margin-top: -519px;
 }
+.t22 {
+  position: relative;
+  z-index: 50;
+  margin-top: -323px;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 17px;
+  color: #F8EFEA;
+  margin-left: 194px;
+}
+.t23 {
+  position: relative;
+  z-index: 50;
+  margin-top: 90px;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 31px;
+  color: #F8EFEA;
+  margin-left: 125px;
+}
+.t24 {
+  position: relative;
+  z-index: 50;
+  margin-top: 6px;
+  font-family: "Century Gothic", sans-serif;
+  font-size: 19px;
+  color: #F8EFEA;
+  margin-left: 188px;
+}
+.book31 {
+  z-index: 51;
+  position: relative;
+  margin-left: 36px;
+  margin-top: -24px;
+}
