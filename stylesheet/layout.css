@@ -308,7 +308,7 @@ body {
     width: 220.89px;
     height: 248.74px;
     background: url('../Проект вариантивы/img/book6.3.png');
-    animation: light .7s steps(1)  infinite;
+    animation: light .3s steps(3)  infinite;
 }
 .book18 {
     z-index: 32;
@@ -335,7 +335,7 @@ body {
   font-family: "Book Antiqua", serif;
   font-size: 25px;
   color: #4F6267;
-  margin-left: -13px;
+  margin-left: -24px;
   line-height: 0.9;
 }
 .t17 {
@@ -346,7 +346,7 @@ body {
   font-family: "Book Antiqua", serif;
   font-size: 15px;
   color: #4F6267;
-  margin-left: -22px;
+  margin-left: -28px;
   line-height: 1.2;
 }
 .book19 {
@@ -421,4 +421,46 @@ body {
   color: #FFFFFF;
   margin-left: 86px;
   line-height: 0.8;
+}
+.book24{
+  z-index: 43;
+  position: relative;
+  margin-left: 92px;
+  margin-top: -312px;
+}
+.book25{
+  z-index: 44;
+  position: absolute;
+  margin-left: 53px;
+  margin-top: -178px;
+  background: url('../Проект вариантивы/img/book8.3.png');
+  animation: rotate 3s alternate infinite;
+}
+.book26{
+  z-index: 45;
+  position: absolute;
+  margin-left: 119px;
+  margin-top: 39px;
+  background: url('../Проект вариантивы/img/book8.4.png');
+  animation: rotate 3s alternate-reverse infinite;
+}
+.book27{
+  z-index: 46;
+  position: absolute;
+  margin-left: 114px;
+  margin-top: -131px;
+  background: url('../Проект вариантивы/img/book8.3.png');
+  animation: moon 3s alternate infinite;
+}
+.book28{
+  z-index: 47;
+  position: relative;
+  margin-left: 22px;
+  margin-top: -195px;
+}
+.book29 {
+  z-index: 48;
+  position: relative;
+  margin-left: 329px;
+  margin-top: -356px;
 }

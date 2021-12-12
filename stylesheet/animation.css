@@ -80,3 +80,15 @@
   75%{ transform: translate(10px,-20px)}
   100%{ transform: translate(2px,-22px)}
 }
+@keyframes rotate {
+  0%{
+  transform: rotate(0deg);}
+  100%{
+  transform: rotate(120deg);}
+}
+@keyframes moon {
+  0%{
+  transform: rotate(0deg) translate(0px,0px);}
+  100%{
+  transform: rotate(120deg)  translate(-50px,10px);}
+}
