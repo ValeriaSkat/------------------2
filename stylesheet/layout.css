@@ -303,8 +303,14 @@ body {
     position: relative;
     margin-left: 48.3px;
     margin-top: -307.03px;
-    width: 100px;
-    height: 100px;
+    width: 220.89px;
+    height: 248.74px;
     background: url('../Проект вариантивы/img/book6.3.png');
-    animation: light .2s steps(1)  infinite;
+    animation: light .7s steps(1)  infinite;
+}
+.book18 {
+    z-index: 27;
+    position: relative;
+    margin-left: 961px;
+    margin-top: -130px;
 }
