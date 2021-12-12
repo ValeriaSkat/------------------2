@@ -282,7 +282,7 @@ body {
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-size: 21px;
   color: #6F3311;
-  margin-left: -431px;
+  margin-left: -455px;
 }
 .t14 {
   position: relative;
@@ -291,7 +291,7 @@ body {
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-size: 25px;
   color: #6F3311;
-  margin-left: -430px;
+  margin-left: -457px;
 }
 .book16 {
     z-index: 30;
@@ -324,7 +324,7 @@ body {
   font-family: "Book Antiqua", serif;
   font-size: 19px;
   color: #4F6267;
-  margin-left: 34px;
+  margin-left: 2px;
   line-height: 0.9;
 }
 .t16 {
@@ -335,7 +335,7 @@ body {
   font-family: "Book Antiqua", serif;
   font-size: 25px;
   color: #4F6267;
-  margin-left: 24px;
+  margin-left: -13px;
   line-height: 0.9;
 }
 .t17 {
@@ -346,7 +346,7 @@ body {
   font-family: "Book Antiqua", serif;
   font-size: 15px;
   color: #4F6267;
-  margin-left: 9px;
+  margin-left: -22px;
   line-height: 1.2;
 }
 .book19 {
@@ -385,30 +385,40 @@ body {
 .t18 {
   position: relative;
   z-index: 40;
-  margin-top: 10px;
-  font-family: "BebasNeuePro-Regular", serif;
+  margin-top: -487px;
+  font-family: "Bebas Neue Pro", sans-serif;
   font-size: 22px;
   color: #FFFFFF;
-  margin-left: 9px;
+  margin-left: 81px;
   line-height: 1.2;
 }
 .t19 {
   position: relative;
   z-index: 41;
-  margin-top: 10px;
-  font-family: "BebasNeuePro-Regular", serif;
+  margin-top: 325px;
+  font-family: "Bebas Neue Pro", sans-serif;
   font-size: 22px;
   color: #FFFFFF;
-  margin-left: 9px;
+  margin-left: 62px;
   line-height: 1.2;
 }
 .t20 {
   position: relative;
   z-index: 42;
-  margin-top: 10px;
-  font-family: "BebasNeuePro-Regular", serif;
+  margin-top: -1px;
+  font-family: "Bebas Neue Pro", sans-serif;
   font-size: 49px;
   color: #FFFFFF;
-  margin-left: 9px;
-  line-height: 1.2;
+  margin-left: 73px;
+  line-height: 0.8;
+}
+.t21 {
+  position: relative;
+  z-index: 42;
+  margin-top: -1px;
+  font-family: "Bebas Neue Pro", sans-serif;
+  font-size: 49px;
+  color: #FFFFFF;
+  margin-left: 86px;
+  line-height: 0.8;
 }
