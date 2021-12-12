@@ -324,14 +324,14 @@ body {
   font-family: "Book Antiqua", serif;
   font-size: 19px;
   color: #4F6267;
-  margin-left: -34px;
+  margin-left: 34px;
   line-height: 0.9;
 }
 .t16 {
   transform: rotate(7deg);
   position: relative;
   z-index: 34;
-  margin-top: -15px;
+  margin-top: 15px;
   font-family: "Book Antiqua", serif;
   font-size: 25px;
   color: #4F6267;
