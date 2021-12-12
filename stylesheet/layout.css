@@ -630,7 +630,19 @@ body {
   animation: batterfly 4s alternate infinite;
 }
 .book45 {
-  z-index: 64;
+  z-index: 65;
   margin-left: 38px;
   margin-top: 25px;
+}
+.book46 {
+  z-index: 66;
+  margin-left: 696px;
+  margin-top: -434px;
+}
+.book47 {
+  z-index: 67;
+  margin-left: 38px;
+  margin-top: -390px;
+  background: url('../Проект вариантивы/img/book13.2.png');
+  animation: broke 4s alternate infinite;
 }
