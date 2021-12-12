@@ -746,3 +746,79 @@ body {
   margin-left: 640px;
   margin-top: -392px;
 }
+.book55 {
+  z-index: 81;
+  margin-left: 65px;
+  margin-top: -118px;
+  background: url('../Проект вариантивы/img/book16.2.png');
+  animation: bul4 4s alternate infinite;
+}
+.book56 {
+  z-index: 82;
+  margin-left: 185px;
+  margin-top: -154px;
+  background: url('../Проект вариантивы/img/book16.3.png');
+  animation: bul 4s alternate infinite;
+}
+.book57 {
+  z-index: 83;
+  margin-left: 177px;
+  margin-top: -261px;
+  background: url('../Проект вариантивы/img/book16.4.png');
+  animation: bul2 4s alternate infinite;
+}
+.book58 {
+  z-index: 84;
+  margin-left: 34px;
+  margin-top: 54px;
+  background: url('../Проект вариантивы/img/book16.5.png');
+  animation: bul3 6s alternate-reverse infinite;
+}
+.book59 {
+  z-index: 85;
+  margin-left: 33px;
+  margin-top: -69px;
+}
+.book60 {
+  z-index: 86;
+  margin-left: 129px;
+  margin-top: -152px;
+  background: url('../Проект вариантивы/img/book16.7.png');
+  animation: fish 4s alternate infinite;
+}
+.book61 {
+  z-index: 87;
+  margin-left: 70px;
+  margin-top: 126px;
+  background: url('../Проект вариантивы/img/book16.8.png');
+  animation: fish 4s alternate-reverse infinite;
+}
+.book62 {
+  z-index: 88;
+  margin-left: 1037px;
+  margin-top: -425px;
+}
+.book63 {
+  position: absolute;
+  z-index: 89;
+  margin-left: 113px;
+  margin-top: -469px;
+}
+.book64 {
+  position: absolute;
+  z-index: 90;
+  margin-left: 49px;
+  margin-top: 1px;
+}
+.book65 {
+  position: absolute;
+  z-index: 91;
+  margin-left: 29px;
+  margin-top: 18px;
+}
+.book66 {
+  position: absolute;
+  z-index: 92;
+  margin-left: 87px;
+  margin-top: -5px;
+}

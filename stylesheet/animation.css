@@ -207,3 +207,51 @@
     transform: translate(0,-40px)
 }
 }
+@keyframes bul {
+  0%{
+      opacity: 0;
+      transform: translate(0,0px)
+    }
+  100%{
+    opacity: 100;
+    transform: translate(15px,-60px)
+}
+}
+@keyframes bul2 {
+  0%{
+      opacity: 0;
+      transform: translate(0,0px)
+    }
+  100%{
+    opacity: 100;
+    transform: translate(-60px,45px)
+}
+}
+@keyframes bul3 {
+  0%{
+      opacity: 100;
+      transform: translate(0px,0px)
+    }
+  100%{
+    opacity: 0;
+    transform: translate(50px,-90px)
+}
+}
+@keyframes bul4 {
+  0%{
+      opacity: 100;
+      transform: translate(0px,0px)
+    }
+  100%{
+    opacity: 100;
+    transform: translate(0px,-40px)
+}
+}
+@keyframes fish {
+  0%{
+      transform: translate(0px,0px)
+    }
+  100%{
+    transform: translate(-45px,0px)
+}
+}
