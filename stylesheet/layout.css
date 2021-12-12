@@ -349,3 +349,17 @@ body {
   margin-left: 9px;
   line-height: 1.2;
 }
+.book19 {
+    z-index: 36;
+    position: relative;
+    margin-left: 90px;
+    margin-top: 74px;
+}
+.book20 {
+    z-index: 37;
+    position: relative;
+    margin-left: 61px;
+    margin-top: -228px;
+    background: url('../Проект вариантивы/img/book7.4.png');
+    animation: rost 4s alternate infinite;
+}
