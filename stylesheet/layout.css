@@ -282,6 +282,7 @@ body {
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-size: 21px;
   color: #6F3311;
+  margin-left: -431px;
 }
 .t14 {
   position: relative;
@@ -290,6 +291,7 @@ body {
   font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
   font-size: 25px;
   color: #6F3311;
+  margin-left: -430px;
 }
 .book16 {
     z-index: 30;
@@ -309,8 +311,41 @@ body {
     animation: light .7s steps(1)  infinite;
 }
 .book18 {
-    z-index: 27;
+    z-index: 32;
     position: relative;
-    margin-left: 961px;
-    margin-top: -130px;
+    margin-left: 1378px;
+    margin-top: -394px;
+}
+.t15 {
+  transform: rotate(7deg);
+  position: relative;
+  z-index: 33;
+  margin-top: -490px;
+  font-family: "Book Antiqua", serif;
+  font-size: 19px;
+  color: #4F6267;
+  margin-left: -34px;
+  line-height: 0.9;
+}
+.t16 {
+  transform: rotate(7deg);
+  position: relative;
+  z-index: 34;
+  margin-top: -15px;
+  font-family: "Book Antiqua", serif;
+  font-size: 25px;
+  color: #4F6267;
+  margin-left: 24px;
+  line-height: 0.9;
+}
+.t17 {
+  transform: rotate(7deg);
+  position: relative;
+  z-index: 35;
+  margin-top: 10px;
+  font-family: "Book Antiqua", serif;
+  font-size: 15px;
+  color: #4F6267;
+  margin-left: 9px;
+  line-height: 1.2;
 }
