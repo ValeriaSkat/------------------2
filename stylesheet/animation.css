@@ -255,3 +255,11 @@
     transform: translate(-45px,0px)
 }
 }
+@keyframes boll {
+  0%{
+    transform: scale(0,0)
+  }
+  100%{
+    transform: scale(5px,5px)
+  }
+}

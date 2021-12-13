@@ -803,22 +803,72 @@ body {
   z-index: 89;
   margin-left: 113px;
   margin-top: -469px;
+  background: url('../Проект вариантивы/img/book17.5.png');
+  animation: boll 2s alternate-reverse infinite;
 }
 .book64 {
   position: absolute;
   z-index: 90;
   margin-left: 49px;
-  margin-top: 1px;
+  margin-top: -405px;
+  background: url('../Проект вариантивы/img/book17.5.png');
+  animation: boll 3s alternate-reverse infinite;
 }
 .book65 {
   position: absolute;
   z-index: 91;
   margin-left: 29px;
-  margin-top: 18px;
+  margin-top: -305px;
+  background: url('../Проект вариантивы/img/book17.5.png');
+  animation: boll 4s alternate-reverse infinite;
 }
 .book66 {
   position: absolute;
   z-index: 92;
   margin-left: 87px;
-  margin-top: -5px;
+  margin-top: -197px;
+  background: url('../Проект вариантивы/img/book17.5.png');
+  animation: boll 5s alternate-reverse infinite;
+}
+.t35 {
+  position: relative;
+  z-index: 93;
+  margin-top: -152px;
+  font-family: "Spectral", serif;
+  font-size: 25px;
+  color: #F8EFEA;
+  margin-left: 99px;
+}
+.t36 {
+  position: relative;
+  z-index: 93;
+  margin-top: -6px;
+  font-family: "Spectral", serif;
+  font-size: 25px;
+  color: #F8EFEA;
+  margin-left: 99px;
+}
+.t37 {
+  position: relative;
+  z-index: 93;
+  margin-top: 5px;
+  font-family: "Spectral", serif;
+  font-size: 13px;
+  color: #F8EFEA;
+  margin-left: 141px;
+}
+.t38 {
+  position: relative;
+  z-index: 93;
+  margin-top: 1px;
+  font-family: "Spectral", serif;
+  font-size: 13px;
+  color: #F8EFEA;
+  margin-left: 141px;
+}
+.book67 {
+  position: absolute;
+  z-index: 92;
+  margin-left: 18px;
+  margin-top: -379px;
 }
