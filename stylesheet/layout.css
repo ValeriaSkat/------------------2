@@ -74,7 +74,7 @@ body {
   z-index: 2;
   margin-left: -33px;
   margin-top: -212px;
-  background: url('../Project/img/book103.png');
+  background: url('img/book103.png');
   animation: walk 2s alternate infinite;
 }
 .p1 {
@@ -92,7 +92,7 @@ body {
   position: relative;
   margin-left: 82px;
   margin-top: -56px;
-  background: url('../Project/img/pg2.png');
+  background: url('img/pg2.png');
   animation: stir 3s alternate infinite;
 }
 .book4 {
@@ -100,7 +100,6 @@ body {
   position: relative;
   z-index: 9;
   margin-top: -465px;
-
 }
 .t5 {
   position: relative;
@@ -146,7 +145,7 @@ body {
   z-index: 13;
   position: absolute;
   margin-left: 150px;
-  background: url('../Project/img/book203.png');
+  background: url('img/book203.png');
   animation: fly 4s alternate infinite;
 }
 .book7 {
@@ -154,7 +153,7 @@ body {
   z-index: 14;
   position: absolute;
   margin-left: 20px;
-  background: url('../Project/img/book204.png');
+  background: url('img/book204.png');
   animation: fly2 4s alternate infinite;
 }
 .p3 {
@@ -215,7 +214,7 @@ body {
   z-index: 20;
   margin-top: -267px;
   margin-left: 89px;
-  background: url('../Project/img/book204.png');
+  background: url('img/book204.png');
   animation: stand 3s alternate infinite;
 }
 .b2 {
@@ -258,7 +257,7 @@ body {
   position: absolute;
   margin-left: 77px;
   margin-top: 30px;
-  background: url('../Project/img/book502.png');
+  background: url('img/book502.png');
   animation: verh 3s alternate infinite;
 }
 .book14 {
@@ -266,7 +265,7 @@ body {
   position: absolute;
   margin-left: 29px;
   margin-top: 30px;
-  background: url('../Project/img/book503.png');
+  background: url('img/book503.png');
   animation: go 4s alternate infinite;
 }
 .book15 {
@@ -307,7 +306,7 @@ body {
     margin-top: -307.03px;
     width: 220.89px;
     height: 248.74px;
-    background: url('../Project/img/book603.png');
+    background: url('img/book603.png');
     animation: light .3s steps(3)  infinite;
 }
 .book18 {
@@ -360,7 +359,7 @@ body {
     position: relative;
     margin-left: 61px;
     margin-top: -228px;
-    background: url('../Project/img/book704.png');
+    background: url('img/book704.png');
     animation: rost 5s alternate infinite;
 }
 .book21 {
@@ -368,7 +367,7 @@ body {
     position: relative;
     margin-left: 137px;
     margin-top: -138px;
-    background: url('../Project/img/book704.png');
+    background: url('img/book704.png');
     animation: rost 5s alternate-reverse infinite;
 }
 .book22 {
@@ -433,7 +432,7 @@ body {
   position: absolute;
   margin-left: 53px;
   margin-top: -178px;
-  background: url('../Project/img/book803.png');
+  background: url('img/book803.png');
   animation: rotate 3s alternate infinite;
 }
 .book26{
@@ -441,7 +440,7 @@ body {
   position: absolute;
   margin-left: 119px;
   margin-top: 39px;
-  background: url('../Project/img/book804.png');
+  background: url('img/book804.png');
   animation: rotate 3s alternate-reverse infinite;
 }
 .book27{
@@ -449,7 +448,7 @@ body {
   position: absolute;
   margin-left: 114px;
   margin-top: -131px;
-  background: url('../Project/img/book803.png');
+  background: url('img/book803.png');
   animation: moon 3s alternate infinite;
 }
 .book28{
@@ -508,7 +507,7 @@ body {
   position: relative;
   margin-left: 99px;
   margin-top: -89px;
-  background: url('../Project/img/book1003.png');
+  background: url('img/book1003.png');
   animation: gone 3s alternate infinite;
 }
 .book33 {
@@ -516,7 +515,7 @@ body {
   position: relative;
   margin-left: 140px;
   margin-top: -74px;
-  background: url('../Project/img/book1004.png');
+  background: url('img/book1004.png');
   animation: gone2 3s alternate infinite;
 }
 .book34 {
@@ -524,7 +523,7 @@ body {
   position: relative;
   margin-left: 173px;
   margin-top: -86px;
-  background: url('../Project/img/book1005.png');
+  background: url('img/book1005.png');
   animation: gone3 3s alternate infinite;
 }
 .book35 {
@@ -532,7 +531,7 @@ body {
   position: relative;
   margin-left: 211px;
   margin-top: -59px;
-  background: url('../Project/img/book1006.png');
+  background: url('img/book1006.png');
   animation: gone4 3s alternate infinite;
 }
 .book36 {
@@ -540,7 +539,7 @@ body {
   position: relative;
   margin-left: 237px;
   margin-top: -69px;
-  background: url('../Project/img/book1007.png');
+  background: url('img/book1007.png');
   animation: gone5 3s alternate infinite;
 }
 .book37 {
@@ -548,7 +547,7 @@ body {
   position: relative;
   margin-left: 308px;
   margin-top: -104px;
-  background: url('../Project/img/book1008.png');
+  background: url('img/book1008.png');
   animation: gone6 3s alternate infinite;
 }
 .book38 {
@@ -610,7 +609,7 @@ body {
   z-index: 64;
   margin-left: 25px;
   margin-top: -6px;
-  background: url('../Project/img/book1202.png');
+  background: url('img/book1202.png');
   animation: batterfly 2s alternate infinite;
 }
 .book43 {
@@ -618,7 +617,7 @@ body {
   z-index: 64;
   margin-left: 151px;
   margin-top: 125px;
-  background: url('../Project/img/book1203.png');
+  background: url('img/book1203.png');
   animation: batterfly 3s alternate infinite;
 }
 .book44 {
@@ -626,7 +625,7 @@ body {
   z-index: 64;
   margin-left: 28px;
   margin-top: 197px;
-  background: url('../Project/img/book1204.png');
+  background: url('img/book1204.png');
   animation: batterfly 4s alternate infinite;
 }
 .book45 {
@@ -643,7 +642,7 @@ body {
   z-index: 67;
   margin-left: 103px;
   margin-top: -390px;
-  background: url('../Project/img/book1302.png');
+  background: url('img/book1302.png');
   animation: broke 4s alternate infinite;
 }
 .book48 {
@@ -697,7 +696,7 @@ body {
   z-index: 74;
   margin-left: 231px;
   margin-top: -55px;
-  background: url('../Project/img/book1504.png');
+  background: url('img/book1504.png');
   animation: vot 4s alternate infinite;
 }
 .book53 {
@@ -750,28 +749,28 @@ body {
   z-index: 81;
   margin-left: 65px;
   margin-top: -118px;
-  background: url('../Project/img/book1602.png');
+  background: url('img/book1602.png');
   animation: bul4 4s alternate infinite;
 }
 .book56 {
   z-index: 82;
   margin-left: 185px;
   margin-top: -154px;
-  background: url('../Project/img/book1603.png');
+  background: url('img/book1603.png');
   animation: bul 4s alternate infinite;
 }
 .book57 {
   z-index: 83;
   margin-left: 177px;
   margin-top: -261px;
-  background: url('../Project/img/book1604.png');
+  background: url('img/book1604.png');
   animation: bul2 4s alternate infinite;
 }
 .book58 {
   z-index: 84;
   margin-left: 34px;
   margin-top: 54px;
-  background: url('../Project/img/book1605.png');
+  background: url('img/book1605.png');
   animation: bul3 6s alternate-reverse infinite;
 }
 .book59 {
@@ -783,14 +782,14 @@ body {
   z-index: 86;
   margin-left: 129px;
   margin-top: -152px;
-  background: url('../Project/img/book1607.png');
+  background: url('img/book1607.png');
   animation: fish 4s alternate infinite;
 }
 .book61 {
   z-index: 87;
   margin-left: 70px;
   margin-top: 126px;
-  background: url('../Project/img/book1608.png');
+  background: url('img/book1608.png');
   animation: fish 4s alternate-reverse infinite;
 }
 .book62 {
@@ -803,7 +802,7 @@ body {
   z-index: 89;
   margin-left: 113px;
   margin-top: -469px;
-  background: url('../Project/img/book1705.png');
+  background: url('img/book1705.png');
   animation: boll 2s alternate-reverse infinite;
 }
 .book64 {
@@ -811,7 +810,7 @@ body {
   z-index: 90;
   margin-left: 49px;
   margin-top: -405px;
-  background: url('../Project/img/book1705.png');
+  background: url('img/book1705.png');
   animation: boll 3s alternate-reverse infinite;
 }
 .book65 {
@@ -819,7 +818,7 @@ body {
   z-index: 91;
   margin-left: 29px;
   margin-top: -305px;
-  background: url('../Project/img/book1705.png');
+  background: url('img/book1705.png');
   animation: boll 4s alternate-reverse infinite;
 }
 .book66 {
@@ -827,7 +826,7 @@ body {
   z-index: 92;
   margin-left: 87px;
   margin-top: -197px;
-  background: url('../Project/img/book1705.png');
+  background: url('img/book1705.png');
   animation: boll 5s alternate-reverse infinite;
 }
 .t35 {
