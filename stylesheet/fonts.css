@@ -1,45 +1,45 @@
 @font-face {
   font-family: "Century";
-  src: url("../Проект вариантивы/fonts/ofont.ru_Century.woff") format("woff");
+  src: url("../fonts/ofont.ru_Century.woff") format("woff");
   font-weight: 100;
 }
 @font-face {
   font-family: "Spectral";
-  src: url("../Проект вариантивы/fonts/Spectral-Regular-Desktop.woff") format("woff");
+  src: url("../fonts/Spectral-Regular-Desktop.woff") format("woff");
   font-weight: 200;
 }
 @font-face {
-  font-family: "Apoc-Regular-Trial";
-  src: url("../Проект вариантивы/fonts/Apoc-Regular-Trial.woff") format("woff");
+  font-family: "Apoc";
+  src: url("../fonts/Apoc-Regular-Trial.woff") format("woff");
   font-weight: 300;
 }
 @font-face {
-  font-family: "Apoc Italic Bold";
-  src: url("../Проект вариантивы/fonts/Apoc-Bold-Italic-Trial.woff") format("woff");
+  font-family: "Apoc";
+  src: url("../fonts/Apoc-Bold-Italic-Trial.woff") format("woff");
   font-weight: 400;
 }
 @font-face {
-  font-family: "Apoc-Apoc-Full-Variable-Trial";
-  src: url("../Проект вариантивы/fonts/Apoc-Apoc-Full-Variable-Trial.woff") format("woff");
+  font-family: "Apoc";
+  src: url("../fonts/Apoc-Apoc-Full-Variable-Trial.woff") format("woff");
   font-weight: 500;
 }
 @font-face {
   font-family: "Book Antiqua";
-  src: url("../Проект вариантивы/fonts/bookantiqua.woff") format("woff");
+  src: url("../fonts/bookantiqua.woff") format("woff");
   font-weight: 600;
 }
 @font-face {
   font-family: "Book Antiqua";
-  src: url("../Проект вариантивы/fonts/bookantiqua.woff") format("woff");
+  src: url("../fonts/bookantiqua.woff") format("woff");
   font-weight: 700;
 }
 @font-face {
   font-family: "BebasNeuePro-Regular";
-  src: url("../Проект вариантивы/fonts/BebasNeuePro-Regular.woff") format("woff");
+  src: url("../fonts/BebasNeuePro-Regular.woff") format("woff");
   font-weight: 800;
 }
 @font-face {
   font-family: "Century Gothic";
-  src: url("../Проект вариантивы/fonts/CenturyGothic.woff") format("woff");
+  src: url("../fonts/CenturyGothic.woff") format("woff");
   font-weight: 900;
 }
