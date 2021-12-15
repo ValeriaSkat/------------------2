@@ -571,6 +571,9 @@ body {
   z-index: 60;
   margin-left: -61px;
   margin-top: 269.62px;
+  background: url('img/book1602.png');
+  animation: crut2 4s alternate infinite;
+  position: absolute;
 }
 .book41 {
   z-index: 61;
@@ -683,14 +686,18 @@ body {
   margin-left: 93px;
 }
 .book50 {
+  position: absolute;
   z-index: 72;
   margin-left: 171px;
   margin-top: 2px;
+  background: url('img/book1502.png');
+  animation: crug 5s alternate-reverse infinite;
 }
 .book53 {
+  position: absolute;
   z-index: 75;
   margin-left: 107px;
-  margin-top: -237px;
+  margin-top: -34px;
 }
 .t31 {
   position: relative;
@@ -731,7 +738,7 @@ body {
 .book54 {
   z-index: 76;
   margin-left: 640px;
-  margin-top: -392px;
+  margin-top: -114px;
 }
 .book55 {
   z-index: 81;

@@ -253,3 +253,15 @@
     transform: scale(5px,5px)
   }
 }
+@keyframes crug {
+  0%{
+  transform: rotate(0deg);}
+  100%{
+  transform: rotate(360deg);}
+}
+@keyframes crut2 {
+  0%{
+  transform: rotate(0deg);}
+  100%{
+  transform: rotate(10deg);}
+}
