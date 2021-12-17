@@ -572,8 +572,6 @@ body {
   margin-left: -61px;
   margin-top: 269.62px;
   background: url('img/book1602.png');
-  animation: crut2 4s alternate infinite;
-  position: absolute;
 }
 .book41 {
   z-index: 61;
