@@ -317,6 +317,7 @@ body {
     transition: 1s;
 }
 .book18 {
+    transform: rotate(6deg);
     z-index: 32;
     position: relative;
     margin-left: 1378px;
