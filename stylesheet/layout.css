@@ -275,7 +275,7 @@ body {
     z-index: 27;
     position: relative;
     margin-left: 961px;
-    margin-top: -130px;
+    margin-top: -129px;
 }
 .t13 {
   position: relative;
@@ -319,43 +319,40 @@ body {
     margin-top: -394px;
 }
 .t15 {
-  transform: rotate(7deg);
   position: relative;
   z-index: 33;
-  margin-top: -490px;
+  margin-top: -477px;
   font-family: "Book Antiqua", serif;
   font-size: 19px;
   color: #4F6267;
-  margin-left: 2px;
+  margin-left: -96px;
   line-height: 0.9;
 }
 .t16 {
-  transform: rotate(7deg);
   position: relative;
   z-index: 34;
   margin-top: 15px;
   font-family: "Book Antiqua", serif;
   font-size: 25px;
   color: #4F6267;
-  margin-left: -24px;
+  margin-left: -101px;
   line-height: 0.9;
 }
 .t17 {
-  transform: rotate(7deg);
   position: relative;
   z-index: 35;
   margin-top: 10px;
   font-family: "Book Antiqua", serif;
   font-size: 15px;
   color: #4F6267;
-  margin-left: -28px;
+  margin-left: -96px;
   line-height: 1.2;
 }
 .book19 {
     z-index: 36;
     position: relative;
     margin-left: 90px;
-    margin-top: 74px;
+    margin-top: 66px;
 }
 .book20 {
     z-index: 37;
@@ -377,7 +374,7 @@ body {
     z-index: 39;
     position: relative;
     margin-left: 12px;
-    margin-top: -77px;
+    margin-top: -43px;
 }
 .b3 {
   margin-left: 87px;
