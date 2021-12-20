@@ -391,7 +391,7 @@ body {
   font-family: "Didona", sans-serif;
   font-size: 16px;
   color: #FFFFFF;
-  margin-left: 81px;
+  margin-left: 57px;
   line-height: 1.2;
 }
 .t19 {
@@ -401,17 +401,17 @@ body {
   font-family: "Didona", sans-serif;
   font-size: 15px;
   color: #FFFFFF;
-  margin-left: 62px;
+  margin-left: 43px;
   line-height: 1.2;
 }
 .t20 {
   position: relative;
   z-index: 42;
-  margin-top: -1px;
+  margin-top: 6px;
   font-family: "Didona", sans-serif;
   font-size: 34px;
   color: #FFFFFF;
-  margin-left: 73px;
+  margin-left: 52px;
   line-height: 0.8;
 }
 .t21 {
@@ -421,7 +421,7 @@ body {
   font-family: "Didona", sans-serif;
   font-size: 34px;
   color: #FFFFFF;
-  margin-left: 86px;
+  margin-left: 71px;
   line-height: 0.8;
 }
 .book24{
@@ -464,7 +464,7 @@ body {
   z-index: 48;
   position: relative;
   margin-left: 329px;
-  margin-top: -356px;
+  margin-top: -320px;
 }
 .book30 {
   z-index: 49;
