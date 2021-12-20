@@ -357,16 +357,16 @@ body {
 .book20 {
     z-index: 37;
     position: relative;
-    margin-left: 61px;
-    margin-top: -228px;
+    margin-left: 42px;
+    margin-top: -216px;
     background: url('img/book704.png');
     animation: rost 5s alternate infinite;
 }
 .book21 {
     z-index: 38;
     position: relative;
-    margin-left: 137px;
-    margin-top: -138px;
+    margin-left: 110px;
+    margin-top: -150px;
     background: url('img/book704.png');
     animation: rost 5s alternate-reverse infinite;
 }

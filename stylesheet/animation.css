@@ -76,8 +76,8 @@
 @keyframes rost {
   0%{ transform: translate(0px,0px)}
   25%{ transform: translate(10px,10px)}
-  75%{ transform: translate(10px,-20px)}
-  100%{ transform: translate(2px,-22px)}
+  75%{ transform: translate(10px,-4px)}
+  100%{ transform: translate(2px,-7px)}
 }
 @keyframes rotate {
   0%{
