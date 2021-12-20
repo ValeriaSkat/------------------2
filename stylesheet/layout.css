@@ -290,6 +290,15 @@ body {
   color: #6F3311;
   margin-left: -455px;
 }
+.t40 {
+  position: relative;
+  z-index: 97;
+  margin-top: 0px;
+  font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+  font-size: 11px;
+  color: #6F3311;
+  margin-left: -615px;
+}
 .t14 {
   position: relative;
   z-index: 29;
