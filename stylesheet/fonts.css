@@ -43,3 +43,8 @@
   src: url("../fonts/CenturyGothic.woff") format("woff");
   font-weight: 900;
 }
+@font-face {
+  font-family: "Didona";
+  src: url("../fonts/didona.woff") format("woff");
+  font-weight: 900;
+}
