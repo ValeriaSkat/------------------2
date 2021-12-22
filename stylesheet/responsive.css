@@ -959,6 +959,7 @@
 }
 @media (max-width: 768px) {
   body {
+    max-width: 768px;
     margin: 0 auto;
   }
   .gif1 img{
@@ -988,15 +989,15 @@
     margin-top: -16px;
   }
   .book2 {
-    margin-left: 0px;
-    margin-top: -16px;
+    margin-left: -41px;
+    margin-top: -304px;
   }
   .t2 {
     letter-spacing: 0.11em;
     position: relative;
     z-index: 4;
     margin-left: 24px;
-    margin-top: -478px;
+    margin-top: -427px;
     font-family: "Century", serif;
     font-weight: 100;
     font-size: 37px;
@@ -1005,7 +1006,7 @@
   .t3 {
     position: relative;
     z-index: 5;
-    margin-left: 77px;
+    margin-left: 48px;
     margin-top: 11px;
     font-family: "Century", serif;
     font-weight: 100;
@@ -1015,8 +1016,8 @@
   .t4 {
     position: relative;
     z-index: 6;
-    margin-left: 67px;
-    margin-top: 351px;
+    margin-left: 47px;
+    margin-top: 302px;
     font-family: "Century", serif;
     font-weight: 100;
     font-size: 17px;
@@ -1027,8 +1028,8 @@
     height: 105.02px;
   }
   .book3 {
-    margin-right: -16px;
-    margin-top: -137px;
+    margin-right: 9px;
+    margin-top: -109px;
   }
   .p1 img{
     width: 246.84px;
@@ -1068,7 +1069,7 @@
     margin-top: -594px;
   }
   .t5 {
-    margin-left: 149px;
+    margin-left: -639px;
     position: relative;
     z-index: 10;
     margin-top: -131px;
@@ -1078,7 +1079,7 @@
     color: #7F3A14;
   }
   .t6 {
-    margin-left: 142px;
+    margin-left: -640px;
     position: relative;
     z-index: 11;
     /*margin-top: 351px;*/
@@ -1088,7 +1089,7 @@
     color: #301607;
   }
   .t7 {
-    margin-left: 152px;
+    margin-left: -635px;
     position: relative;
     z-index: 12;
 
@@ -1099,16 +1100,16 @@
     color: #7F3A14;
   }
   .book5 img{
-    width: 213.7px;
+    width: 228.7px;
     height: 242px;
   }
   .book5 {
-    margin-left: 68px;
+    margin-left: 58px;
     margin-top: -350px;
   }
   .book6 {
-    margin-top: -150px;
-    margin-left: 150px;
+    margin-top: -157px;
+    margin-left: 139px;
   }
   .book6 img{
     width: 164px;
