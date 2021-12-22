@@ -957,3 +957,940 @@
     height: 306px;
   }
 }
+@media (max-width: 768px) {
+  .gif1 img{
+    width: 289px;
+    height: 105px;
+  }
+  .b1 {
+  margin-left: 283px;
+  margin-top: 41px;
+  margin-right: 0px;
+  }
+  .t1 {
+    margin-left: 31px;
+    margin-top: 7px;
+    font-size: 40px;
+  }
+  .book1 {
+    margin-left: 406px;
+    margin-top: -470px;
+  }
+  .book2 img{
+    width: 429px;
+    height: 255px;
+    position: absolute;
+    z-index: 3;
+    margin-left: 0px;
+    margin-top: -16px;
+  }
+  .t2 {
+    letter-spacing: 0.11em;
+    position: relative;
+    z-index: 4;
+    margin-left: 24px;
+    margin-top: -478px;
+    font-family: "Century", serif;
+    font-weight: 100;
+    font-size: 44px;
+    color: #33374B;
+  }
+  .t3 {
+    position: relative;
+    z-index: 5;
+    margin-left: 77px;
+    margin-top: 11px;
+    font-family: "Century", serif;
+    font-weight: 100;
+    font-size: 17px;
+    color: #33374B;
+  }
+  .t4 {
+    position: relative;
+    z-index: 6;
+    margin-left: 67px;
+    margin-top: 351px;
+    font-family: "Century", serif;
+    font-weight: 100;
+    font-size: 17px;
+    color: #33374B;
+  }
+  .book3 img{
+    width: 266.18px;
+    height: 121.61px;
+    margin-right: -200px;
+    margin-top: -212px;
+  }
+  .book3 {
+    margin-right: -16px;
+    margin-top: -137px;
+  }
+  .p1 img{
+    width: 265.94px;
+    height:265.94px;
+    margin-left: -11px;
+    margin-top: -35px;
+  }
+  .book4 {
+    margin-left: 812px;
+    position: relative;
+    z-index: 9;
+    margin-top: -506px;
+  }
+  .cont2 img{
+    width: 334px;
+    height: 505px;
+  }
+  .t39 {
+    position: relative;
+    z-index: 93;
+    margin-left: 111.07px;
+    margin-top: -678px;
+    font-family: "Century", serif;
+    font-weight: 100;
+    font-size: 29px;
+  }
+  .cont1 img{
+    width: 288.44px;
+    height: 436.11px;
+  }
+  .p2 img{
+    width: 158.04px;
+    height: 133.62px;
+    margin-left: 35px;
+    margin-top: 1px;
+  }
+  .t5 {
+    margin-left: 149px;
+    position: relative;
+    z-index: 10;
+    margin-top: -131px;
+    font-family: "Spectral", serif;
+    font-weight: 200;
+    font-size: 18px;
+    color: #7F3A14;
+  }
+  .t6 {
+    margin-left: 142px;
+    position: relative;
+    z-index: 11;
+
+    /*margin-top: 351px;*/
+    font-family: "Spectral", serif;
+    font-weight: 200;
+    font-size: 24px;
+    color: #301607;
+  }
+  .t7 {
+    margin-left: 152px;
+    position: relative;
+    z-index: 12;
+
+    /*margin-top: 351px;*/
+    font-family: "Spectral", serif;
+    font-weight: 200;
+    font-size: 18px;
+    color: #7F3A14;
+  }
+  .book5 img{
+    width: 214px;
+    height: 211px;
+  }
+  .book5 {
+    margin-left: 68px;
+    margin-top: -350px;
+  }
+  .book6 {
+    margin-top: -150px;
+    margin-left: 150px;
+  }
+  .book6 img{
+    width: 175px;
+    height: 125px;
+  }
+  .book7 {
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+  .book7 img{
+    width: 160px;
+    height: 114px;
+  }
+  .p3 {
+    margin-left: 1214px;
+    margin-top: -983px;
+  }
+  .p3 img{
+    width: 164.41px;
+    height: 505px;
+  }
+  .cont3 img{
+    width: 334px;
+    height: 505px;
+  }
+  .book8 {
+    margin-left: 601.18px;
+    margin-top: 227px;
+  }
+  .t8 {
+    margin-left: -485px;
+    position: relative;
+    z-index: 17;
+    font-family: "Apoc", serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: #C48643;
+  }
+  .t9 {
+    margin-left: -477px;
+    position: relative;
+    z-index: 18;
+    margin-top: 269px;
+    font-family: "Apoc", serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #C48643;
+    font-style: italic;
+  }
+  .t10 {
+    margin-left: -478px;
+    position: relative;
+    z-index: 19;
+    margin-top: 4px;
+    font-family: "Apoc", serif;
+    font-weight: 500;
+    font-size: 27px;
+    color: #C48643;
+    letter-spacing: 1px;
+  }
+  .book9 img{
+    width: 262px;
+    height: 231px;
+  }
+  .book9 {
+    margin-left: 32px;
+    margin-top: -288px;
+  }
+  .book10 {
+    margin-top: -267px;
+    margin-left: 89px;
+  }
+  .book10 img{
+    width: 56px;
+    height: 56px;
+  }
+  .book11 img{
+    width: 505.03px;
+    height: 520px;
+  }
+  .book11 {
+    margin-left: 228px;
+    margin-top: -5px;
+  }
+  .cont4 img{
+    width: 334px;
+    height: 505px;
+  }
+  .book12 {
+      margin-left: 1198px;
+      margin-top: -514px;
+  }
+  .t11 {
+    position: relative;
+    z-index: 24;
+    margin-top: -481px;
+    font-family: "Apoc", serif;
+    font-weight: 500;
+    font-size: 26px;
+    letter-spacing: 2px;
+    line-height: 1;
+    margin-left: 37.42px;
+  }
+  .t12 {
+    position: relative;
+    z-index: 24;
+    margin-top: 10px;
+    font-family: "Apoc", serif;
+    font-size: 9px;
+    font-style: italic;
+    margin-left: 37.42px;
+  }
+  .book13 {
+    margin-left: 77px;
+    margin-top: 30px;
+  }
+  .book13 img{
+    width: 172px;
+    height: 286.69px;
+  }
+  .book14 {
+    margin-left: 29px;
+    margin-top: 30px;
+  }
+  .book14 img{
+    width: 265px;
+    height: 297px;
+  }
+  .cont5 img{
+    width: 334px;
+    height: 505px;
+  }
+  .book15 {
+      margin-left: 834px;
+      margin-top: 415px;
+  }
+  .t13 {
+    position: relative;
+    z-index: 28;
+    margin-top: -464px;
+    font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+    font-size: 16px;
+    color: #6F3311;
+    margin-left: -584px;
+  }
+  .t14 {
+    position: relative;
+    z-index: 29;
+    margin-top: 10px;
+    font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
+    font-size: 20px;
+    color: #6F3311;
+    margin-left: -587px;
+  }
+  .book16 img{
+    width: 245px;
+    height: 349px;
+  }
+  .book16 {
+    margin-left: 41.3px;
+    margin-top: 24.97px;
+  }
+  .book17 img{
+    width: 230px;
+    height: 259px;
+  }
+  .book17 {
+    margin-left: 48.3px;
+    margin-top: -307.03px;
+  }
+  .cont6 img{
+    width: 276px;
+    height: 505px;
+  }
+  .book18 {
+      margin-left: 1261px;
+      margin-top: -435px;
+  }
+  .t15 {
+    position: relative;
+    z-index: 33;
+    margin-top: -477px;
+    font-family: "Book Antiqua", serif;
+    font-size: 16px;
+    color: #4F6267;
+    margin-left: -221px;
+    line-height: 0.9;
+  }
+  .t16 {
+    position: relative;
+    z-index: 34;
+    margin-top: 16px;
+    font-family: "Book Antiqua", serif;
+    font-size: 21px;
+    color: #4F6267;
+    margin-left: -222px;
+    line-height: 0.9;
+  }
+  .t17 {
+    position: relative;
+    z-index: 35;
+    margin-top: 17px;
+    font-family: "Book Antiqua", serif;
+    font-size: 16px;
+    color: #4F6267;
+    margin-left: -216px;
+    line-height: 1.2;
+  }
+  .book19 {
+      margin-left: 90px;
+      margin-top: 66px;
+  }
+  .book19 img{
+    width: 73px;
+    height: 262px;
+  }
+  .book20 {
+      margin-left: 42px;
+      margin-top: -216px;
+  }
+  .book20 img{
+    width: 105px;
+    height: 61px;
+  }
+  .book21 {
+      margin-left: 110px;
+      margin-top: -150px;
+  }
+  .book21 img{
+    width: 105px;
+    height: 61px;
+  }
+  .book22 {
+      margin-left: 12px;
+      margin-top: -43px;
+  }
+  .book22 img{
+    width: 227px;
+    height: 274px;
+  }
+  .cont7 img{
+    width: 280px;
+    height: 505px;
+  }
+  .book23 {
+    margin-left: 223px;
+    margin-top: 60.62px;
+    margin-right: 87px;
+  }
+  .t18 {
+    position: relative;
+    z-index: 40;
+    margin-top: -487px;
+    font-family: "Didona", sans-serif;
+    font-size: 18px;
+    color: #FFFFFF;
+    margin-left: 57px;
+    line-height: 1.2;
+  }
+  .t19 {
+    position: relative;
+    z-index: 41;
+    margin-top: 325px;
+    font-family: "Didona", sans-serif;
+    font-size: 15px;
+    color: #FFFFFF;
+    margin-left: 54px;
+    line-height: 1.2;
+  }
+  .t20 {
+    position: relative;
+    z-index: 42;
+    margin-top: 6px;
+    font-family: "Didona", sans-serif;
+    font-size: 33px;
+    color: #FFFFFF;
+    margin-left: 57px;
+    line-height: 0.8;
+  }
+  .t21 {
+    position: relative;
+    z-index: 42;
+    margin-top: 8px;
+    font-family: "Didona", sans-serif;
+    font-size: 33px;
+    color: #FFFFFF;
+    margin-left: 76px;
+    line-height: 0.8;
+  }
+  .book24{
+    margin-left: 92px;
+    margin-top: -312px;
+  }
+  .book24 img{
+    width: 83.21px;
+    height: 142.09px;
+  }
+  .book25{
+    margin-left: 53px;
+    margin-top: -178px;
+  }
+  .book25 img{
+    width: 22.5px;
+    height: 22.5px;
+  }
+  .book26{
+    margin-left: 119px;
+    margin-top: 39px;
+  }
+  .book26 img{
+    width: 28.24px;
+    height: 28.24px;
+  }
+  .book27{
+    margin-left: 114px;
+    margin-top: -131px;
+  }
+  .book27 img{
+    width: 82px;
+    height: 118px;
+  }
+  .book28{
+    margin-left: 22px;
+    margin-top: -195px;
+  }
+  .book28 img{
+    width: 236px;
+    height: 283px;
+  }
+  .book29 {
+    margin-left: 222px;
+    margin-top: -937px;
+  }
+  .book29 img{
+    width: 600px;
+  height: 531.26px;
+  }
+  .book30 {
+    margin-left: 1032px;
+    margin-top: 29px;
+  }
+  .cont8 img{
+    width: 567px;
+    height: 375px;
+  }
+  .t22 {
+    position: relative;
+    z-index: 50;
+    margin-top: -323px;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 18px;
+    color: #F8EFEA;
+    margin-left: 194px;
+  }
+  .t23 {
+    position: relative;
+    z-index: 50;
+    margin-top: 90px;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 33px;
+    color: #F8EFEA;
+    margin-left: 125px;
+  }
+  .t24 {
+    position: relative;
+    z-index: 50;
+    margin-top: 6px;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 18px;
+    color: #F8EFEA;
+    margin-left: 188px;
+  }
+  .book31 {
+    margin-left: 36px;
+    margin-top: -36px;
+  }
+  .book31 img{
+    width: 75.33px;
+    height: 143px;
+  }
+  .book32 {
+    margin-left: 99px;
+    margin-top: -94px;
+  }
+  .book32 img{
+    width: 48.11px;
+    height: 91.34px;
+  }
+  .book33 {
+    margin-left: 140px;
+    margin-top: -78px;
+  }
+  .book33 img{
+    width: 40px;
+    height: 75.94px;
+  }
+  .book34 {
+    margin-left: 173px;
+    margin-top: -92px;
+  }
+  .book34 img{
+    width: 46px;
+    height: 87.33px;
+  }
+  .book35 {
+    margin-left: 211px;
+    margin-top: -62px;
+  }
+  .book35 img{
+    width: 31px;
+    height: 58.85px;
+  }
+  .book36 {
+    margin-left: 237px;
+    margin-top: -71px;
+  }
+  .book36 img{
+    width: 144px;
+    height: 70px;
+  }
+  .book37 {
+    margin-left: 308px;
+    margin-top: -111px;
+  }
+  .book37 img{
+    width: 144px;
+    height: 108px;
+  }
+  .book38 {
+    margin-left: 372px;
+    margin-top: -187px;
+  }
+  .book38 img{
+    width: 131px;
+  height: 185px;
+  }
+  .book39 {
+    margin-left: 43px;
+    margin-top: -156px;
+  }
+  .book39 img{
+    width: 471px;
+    height: 158px;
+  }
+  .book40 {
+    display: none;
+  }
+  .book41 {
+    margin-left: 592px;
+    margin-top: -396.38px;
+  }
+  .cont9 img{
+    width: 334px;
+    height: 505px;
+  }
+  .t25 {
+    position: relative;
+    z-index: 62;
+    margin-top: -450px;
+    font-family: "Spectral", serif;
+    font-size: 29px;
+    color: #B7D7E0;
+    margin-left: 107px;
+  }
+  .t26 {
+    position: relative;
+    z-index: 62;
+    margin-top: -1px;
+    font-family: "Spectral", serif;
+    font-size: 29px;
+    color: #B7D7E0;
+    margin-left: 112px;
+  }
+  .t27 {
+    position: relative;
+    z-index: 63;
+    margin-top: 6px;
+    font-family: "Times New Roman", serif;
+    font-size: 14px;
+    color: #B7D7E0;
+    margin-left: 89px;
+  }
+  .book42 {
+    margin-left: 25px;
+    margin-top: -6px;
+  }
+  .book42 img{
+    width: 164.08px;
+    height: 134px;
+  }
+  .book43 {
+    margin-left: 151px;
+    margin-top: 125px;
+  }
+  .book43 img{
+    width: 119.27px;
+    height: 97.47px;
+  }
+  .book44 {
+    margin-left: 28px;
+    margin-top: 197px;
+  }
+  .book44 img{
+    width: 113.42px;
+    height: 92.39px;
+  }
+  .book45 {
+    margin-left: 38px;
+    margin-top: 25px;
+  }
+  .book45 img{
+    width: 237px;
+    height: 287px;
+  }
+  .book46 {
+    margin-left: 223px;
+    margin-top: 119px;
+  }
+  .cont10 img{
+    width: 509px;
+    height: 394px;
+  }
+  .cont11 img{
+    width: 175px;
+    height: 285px;
+  }
+  .book47 {
+    margin-left: 75px;
+    margin-top: -318px;
+  }
+  .book48 {
+    transform: rotate(53deg);
+    margin-left: 590px;
+    margin-top: -306px;
+  }
+  .b5 {
+    margin-left: 1063px;
+    margin-top: -212.38px;
+  }
+  .cont12 img{
+    width: 508px;
+  height: 375px;
+  }
+  .t28 {
+    position: relative;
+    z-index: 69;
+    margin-top: -361px;
+    font-family: "Times New Roman", serif;
+    font-size: 10px;
+    color: #E9CFC1;
+    margin-left: 93px;
+  }
+  .t29 {
+    position: relative;
+    z-index: 70;
+    margin-top: 15px;
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    color: #E9CFC1;
+    margin-left: 93px;
+  }
+  .t30 {
+    position: relative;
+    z-index: 71;
+    margin-top: 6px;
+    font-family: "Times New Roman", serif;
+    font-size: 18px;
+    color: #E9CFC1;
+    margin-left: 93px;
+  }
+  .book50 {
+    margin-left: 140px;
+    margin-top: 14px;
+  }
+  .book50 img{
+    width: 254px;
+    height: 238px;
+  }
+  .book53 {
+    margin-left: 66px;
+    margin-top: -11px;
+  }
+  .book53 img{
+    width: 375px;
+    height: 259px;
+  }
+  .t31 {
+    position: relative;
+    z-index: 77;
+    margin-top: -447px;
+    font-family: "Times New Roman", serif;
+    font-size: 34px;
+    color: #ECEFE7;
+    margin-left: 87px;
+  }
+  .t32 {
+    position: relative;
+    z-index: 78;
+    margin-top: -1px;
+    font-family: "Times New Roman", serif;
+    font-size: 34px;
+    color: #ECEFE7;
+    margin-left: 74px;
+  }
+  .t33 {
+    position: relative;
+    z-index: 79;
+    margin-top: -1px;
+    font-family: "Times New Roman", serif;
+    font-size: 34px;
+    color: #ECEFE7;
+    margin-left: 109px;
+  }
+  .t34 {
+    position: relative;
+    z-index: 80;
+    margin-top: 11px;
+    font-family: "Times New Roman", serif;
+    font-size: 19px;
+    color: #ECEFE7;
+    margin-left: 104px;
+  }
+  .book54 {
+    margin-left: -836px;
+    margin-top: -82px;
+  }
+  .cont13 img{
+    width: 334px;
+    height: 505px;
+  }
+  .book55 {
+    margin-left: 65px;
+    margin-top: -118px;
+  }
+  .book55 img{
+    width: 166px;
+    height: 339px;
+  }
+  .book56 {
+    margin-left: 185px;
+    margin-top: -154px;
+  }
+  .book56 img{
+    width: 68px;
+    height: 68px;
+  }
+  .book57 {
+    margin-left: 177px;
+    margin-top: -261px;
+  }
+  .book57 img{
+    width: 92px;
+    height: 92px;
+  }
+  .book58 {
+    margin-left: 34px;
+    margin-top: 54px;
+  }
+  .book58 img{
+    width: 92px;
+    height: 92px;
+  }
+  .book59 {
+    margin-left: 33px;
+    margin-top: -38px;
+  }
+  .book59 img{
+    width: 221px;
+    height: 87px;
+  }
+  .book60 {
+    margin-left: 129px;
+    margin-top: -151px;
+  }
+  .book60 img{
+    width: 132px;
+    height: 32px;
+  }
+  .book61 {
+    margin-left: 70px;
+    margin-top: 126px;
+  }
+  .book61 img{
+    width: 152px;
+    height: 34px;
+  }
+  .cont14 img{
+    width: 334px;
+    height: 505px;
+  }
+  .book62 {
+    margin-left: -420px;
+    margin-top: -408px;
+  }
+  .book63 {
+    margin-left: 113px;
+    margin-top: -469px
+  }
+  .book63 img{
+    width: 62px;
+    height: 62px;
+  }
+  .book64 {
+    margin-left: 49px;
+    margin-top: -405px;
+  }
+  .book64 img{
+    width: 76px;
+    height: 76px;
+  }
+  .book65 {
+    margin-left: 29px;
+    margin-top: -305px;
+  }
+  .book65 img{
+    width: 103px;
+    height: 103px;
+  }
+  .book66 {
+    margin-left: 87px;
+    margin-top: -197px;
+  }
+  .book66 img{
+    width: 151px;
+    height: 152px;
+  }
+  .t35 {
+    position: relative;
+    z-index: 93;
+    margin-top: -152px;
+    font-family: "Spectral", serif;
+    font-size: 24px;
+    color: #F8EFEA;
+    margin-left: 99px;
+  }
+  .t36 {
+    position: relative;
+    z-index: 93;
+    margin-top: -6px;
+    font-family: "Spectral", serif;
+    font-size: 24px;
+    color: #F8EFEA;
+    margin-left: 99px;
+  }
+  .t37 {
+    position: relative;
+    z-index: 93;
+    margin-top: 5px;
+    font-family: "Spectral", serif;
+    font-size: 13px;
+    color: #F8EFEA;
+    margin-left: 141px;
+  }
+  .t38 {
+    position: relative;
+    z-index: 93;
+    margin-top: 1px;
+    font-family: "Spectral", serif;
+    font-size: 13px;
+    color: #F8EFEA;
+    margin-left: 141px;
+  }
+  .book67 {
+    margin-left: 18px;
+    margin-top: -379px;
+  }
+  .book67 img{
+    width: 199px;
+    height: 419px;
+  }
+  .b6 {
+    margin-left: 87px;
+    margin-top: 870.62px;
+  }
+  .book68 {
+    margin-left: 141px;
+    margin-top: -290px;
+  }
+  .book68 img{
+    width: 337px;
+    height: 66px;
+  }
+  .book69 {
+    margin-left: 45px;
+    margin-top: -256px;
+  }
+  .book69 img{
+    width: 261px;
+    height: 306px;
+  }
+}
