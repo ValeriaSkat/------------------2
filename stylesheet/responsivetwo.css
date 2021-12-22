@@ -27,15 +27,15 @@
     height: 247.9px;
   }
   .book2 {
-    margin-left: -41px;
-    margin-top: -304px;
+    margin-left: 11px;
+    margin-top: -350px;
   }
   .t2 {
     letter-spacing: 0.11em;
     position: relative;
     z-index: 4;
-    margin-left: 24px;
-    margin-top: -427px;
+    margin-left: 35px;
+    margin-top: -479px;
     font-family: "Century", serif;
     font-weight: 100;
     font-size: 40px;
@@ -44,7 +44,7 @@
   .t3 {
     position: relative;
     z-index: 5;
-    margin-left: 48px;
+    margin-left: 71px;
     margin-top: 11px;
     font-family: "Century", serif;
     font-weight: 100;
@@ -54,8 +54,8 @@
   .t4 {
     position: relative;
     z-index: 6;
-    margin-left: 47px;
-    margin-top: 302px;
+    margin-left: 57px;
+    margin-top: 359px;
     font-family: "Century", serif;
     font-weight: 100;
     font-size: 18px;
@@ -66,8 +66,8 @@
     height: 127.73px;
   }
   .book3 {
-    margin-right: 9px;
-    margin-top: -109px;
+    margin-right: -25px;
+    margin-top: -128px;
   }
   .p1 img{
     width: 346.66px;
@@ -88,7 +88,7 @@
   .t39 {
     position: relative;
     z-index: 93;
-    margin-left: 9.07px;
+    margin-left: 256.07px;
     margin-top: 114px;
     font-family: "Century", serif;
     font-weight: 100;
@@ -142,8 +142,8 @@
     height: 264.32px;
   }
   .book5 {
-    margin-left: 58px;
-    margin-top: -350px;
+    margin-left: 44px;
+    margin-top: -393px;
   }
   .book6 {
     margin-top: -157px;
@@ -163,7 +163,7 @@
   }
   .p3 {
     margin-left: 207px;
-    margin-top: -1080px;
+    margin-top: 103px;
     transform: rotate(290deg);
   }
   .p3 img{
@@ -172,59 +172,31 @@
 
   }
   .cont3 img{
-    width: 331.05px;
-    height: 500.53px;
+    display: none;
   }
   .book8 {
-    margin-left: 26.18px;
-    margin-top: 722px;
+    display: none;
   }
   .t8 {
-    margin-left: -197px;
-    position: relative;
-    z-index: 17;
-    font-family: "Apoc", serif;
-    font-weight: 500;
-    font-size: 28px;
-    color: #C48643;
+    display: none;
   }
   .t9 {
-    margin-left: -189px;
-    position: relative;
-    z-index: 18;
-    margin-top: 269px;
-    font-family: "Apoc", serif;
-    font-weight: 500;
-    font-size: 20px;
-    color: #C48643;
-    font-style: italic;
+    display: none;
   }
   .t10 {
-    margin-left: -184px;
-    position: relative;
-    z-index: 19;
-    margin-top: 4px;
-    font-family: "Apoc", serif;
-    font-weight: 500;
-    font-size: 22px;
-    color: #C48643;
-    letter-spacing: 1px;
+    display: none;
   }
   .book9 img{
-    width: 259.68px;
-    height: 228.96px;
+    display: none;
   }
   .book9 {
-    margin-left: 32px;
-    margin-top: -288px;
+    display: none;
   }
   .book10 {
-    margin-top: -267px;
-    margin-left: 89px;
+    display: none;
   }
   .book10 img{
-    width: 55.5px;
-    height: 55.5px;
+    display: none;
   }
   .book11 img{
     display: none;
@@ -270,7 +242,7 @@
   }
   .book14 {
     margin-left: 29px;
-    margin-top: 30px;
+    margin-top: 18px;
   }
   .book14 img{
     width: 262.66px;
@@ -291,7 +263,7 @@
     font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
     font-size: 20px;
     color: #6F3311;
-    margin-left: -345px;
+    margin-left: -327px;
   }
   .t14 {
     position: relative;
@@ -300,7 +272,7 @@
     font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
     font-size: 22px;
     color: #6F3311;
-    margin-left: -327px;
+    margin-left: -325px;
   }
   .book16 img{
     width: 242.95px;
@@ -330,11 +302,11 @@
   .t15 {
     position: relative;
     z-index: 33;
-    margin-top: -467px;
+    margin-top: -565px;
     font-family: "Book Antiqua", serif;
     font-size: 15px;
     color: #4F6267;
-    margin-left: -379px;
+    margin-left: -329px;
     line-height: 0.9;
   }
   .t16 {
@@ -344,7 +316,7 @@
     font-family: "Book Antiqua", serif;
     font-size: 21px;
     color: #4F6267;
-    margin-left: -378px;
+    margin-left: -333px;
     line-height: 0.9;
   }
   .t17 {
@@ -354,12 +326,12 @@
     font-family: "Book Antiqua", serif;
     font-size: 15px;
     color: #4F6267;
-    margin-left: -372px;
+    margin-left: -327px;
     line-height: 1.2;
   }
   .book19 {
-      margin-left: 90px;
-      margin-top: 66px;
+      margin-left: 110px;
+      margin-top: 101px;
   }
   .book19 img{
     width: 87.56px;
@@ -367,15 +339,15 @@
   }
   .book20 {
       margin-left: 42px;
-      margin-top: -216px;
+      margin-top: -281px;
   }
   .book20 img{
     width: 125.94px;
     height: 73.17px;
   }
   .book21 {
-      margin-left: 110px;
-      margin-top: -150px;
+      margin-left: 123px;
+      margin-top: -171px;
   }
   .book21 img{
     width: 125.94px;
@@ -383,7 +355,7 @@
   }
   .book22 {
       margin-left: 12px;
-      margin-top: -43px;
+      margin-top: -81px;
   }
   .book22 img{
     width: 272.27px;
@@ -395,18 +367,18 @@
   }
   .book23 {
     margin-left: -46px;
-    margin-top: 162.38px;
+    margin-top: 2.62px;
     margin-right: 109px;
   }
   .t18 {
     margin-right: -223px;
     position: relative;
     z-index: 40;
-    margin-top: -487px;
+    margin-top: -565px;
     font-family: "Didona", sans-serif;
     font-size: 18px;
     color: #FFFFFF;
-    margin-left: 66px;
+    margin-left: 73px;
     line-height: 1.2;
   }
   .t19 {
@@ -417,7 +389,7 @@
     font-family: "Didona", sans-serif;
     font-size: 17px;
     color: #FFFFFF;
-    margin-left: 67px;
+    margin-left: 60px;
     line-height: 1.2;
   }
   .t20 {
@@ -427,7 +399,7 @@
     font-family: "Didona", sans-serif;
     font-size: 41px;
     color: #FFFFFF;
-    margin-left: 57px;
+    margin-left: 61px;
     line-height: 0.8;
   }
   .t21 {
@@ -437,7 +409,7 @@
     font-family: "Didona", sans-serif;
     font-size: 41px;
     color: #FFFFFF;
-    margin-left: 76px;
+    margin-left: 81px;
     line-height: 0.8;
   }
   .book24{
@@ -457,8 +429,8 @@
     height: 26.6px;
   }
   .book26{
-    margin-left: 119px;
-    margin-top: 39px;
+    margin-left: 21px;
+    margin-top: -14px;
   }
   .book26 img{
     width: 33.38px;
@@ -469,21 +441,22 @@
     margin-top: -131px;
   }
   .book27 img{
-    width: 83.95px;
+    width: 98.95px;
     height: 141.88px;
   }
   .book28{
-    margin-left: 22px;
-    margin-top: -195px;
+    margin-left: 17px;
+    margin-top: -172px;
+    transition: rotate(77deg);
   }
   .book28 img{
     width: 279.03px;
     height: 334.6px;
   }
   .book29 {
-    transform: rotate(50.92deg);
-    margin-left: -300px;
-    margin-top: -313px;
+    transform: rotate(90deg);
+    margin-left: -587px;
+    margin-top: 461px;
   }
   .book29 img{
     width: 796.24px;
@@ -564,7 +537,7 @@
   }
   .book41 {
     margin-left: -45px;
-    margin-top: -17.62px;
+    margin-top: -68.62px;
   }
   .cont9 img{
     width: 331.21px;
@@ -595,7 +568,7 @@
     font-family: "Times New Roman", serif;
     font-size: 15px;
     color: #B7D7E0;
-    margin-left: 79px;
+    margin-left: 88px;
   }
   .book42 {
     margin-left: 25px;
@@ -652,8 +625,8 @@
     height: 768.29px;
   }
   .b5 {
-    margin-left: -40px;
-    margin-top: -244.38px;
+    margin-left: -292px;
+    margin-top: 40.62px;
   }
   .cont12 img{
     width: 611.53px;
@@ -688,7 +661,7 @@
   }
   .book50 {
     margin-left: 140px;
-    margin-top: 14px;
+    margin-top: -122px;
   }
   .book50 img{
     width: 305.77px;
@@ -696,7 +669,7 @@
   }
   .book53 {
     margin-left: 66px;
-    margin-top: -11px;
+    margin-top: -136px;
   }
   .book53 img{
     width: 451.43px;
@@ -709,7 +682,7 @@
     font-family: "Times New Roman", serif;
     font-size: 32px;
     color: #ECEFE7;
-    margin-left: 78px;
+    margin-left: 96px;
   }
   .t32 {
     position: relative;
@@ -718,7 +691,7 @@
     font-family: "Times New Roman", serif;
     font-size: 32px;
     color: #ECEFE7;
-    margin-left: 64px;
+    margin-left: 77px;
   }
   .t33 {
     position: relative;
@@ -727,7 +700,7 @@
     font-family: "Times New Roman", serif;
     font-size: 32px;
     color: #ECEFE7;
-    margin-left: 97px;
+    margin-left: 112px;
   }
   .t34 {
     position: relative;
@@ -736,11 +709,11 @@
     font-family: "Times New Roman", serif;
     font-size: 22px;
     color: #ECEFE7;
-    margin-left: 92px;
+    margin-left: 98px;
   }
   .book54 {
-    margin-left: 0px;
-    margin-top: 323px;
+    margin-left: 247px;
+    margin-top: 307px;
   }
   .cont13 img{
     width: 331.05px;
@@ -779,11 +752,11 @@
     height: 138.76px;
   }
   .book59 {
-    margin-left: 33px;
-    margin-top: -38px;
+    margin-left: 78px;
+    margin-top: -80px;
   }
   .book59 img{
-    width: 171.47px;
+    width: 194.47px;
     height: 86.23px;
   }
   .book60 {
@@ -807,8 +780,8 @@
     height: 500.53px;
   }
   .book62 {
-    margin-left: 360px;
-    margin-top: -395px;
+    margin-left: 251px;
+    margin-top: 112px;
   }
   .book63 {
     margin-left: 113px;
@@ -883,7 +856,7 @@
   }
   .book67 {
     margin-left: 18px;
-    margin-top: -349px;
+    margin-top: -406px;
   }
   .book67 img{
     width: 197.24px;
@@ -895,7 +868,7 @@
   }
   .book68 {
     margin-left: -116px;
-    margin-top: -290px;
+    margin-top: -370px;
   }
   .book68 img{
     width: 210.14px;
