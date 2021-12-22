@@ -8,8 +8,33 @@
     width: 336px;
     height: 121px;
   }
+  .b6 {
+    margin-left: 87px;
+    margin-top: 870.62px;
+    margin-right: 87px;
+  }
+  .b5 {
+    margin-left: 6px;
+    margin-top: 40.62px;
+    margin-right: 87px;
+  }
+  .b4 {
+    margin-left: 103px;
+    margin-top: 254.62px;
+    margin-right: 87px;
+  }
+  .b3 {
+    margin-left: 300px;
+    margin-top: 60.62px;
+    margin-right: 87px;
+  }
+  .b2 {
+    margin-left: 303px;
+    margin-top: 565.62px;
+    margin-right: 87px;
+  }
   .b1 {
-  margin-left: 13px;
+  margin-left: 231px;
   margin-top: 41px;
   margin-right: 0px;
   }
@@ -88,7 +113,7 @@
   .t39 {
     position: relative;
     z-index: 93;
-    margin-left: 256.07px;
+    margin-left: 145.07px;
     margin-top: 114px;
     font-family: "Century", serif;
     font-weight: 100;
@@ -107,7 +132,7 @@
     margin-top: -58px;
   }
   .t5 {
-    margin-left: 228px;
+    margin-left: 455px;
     position: relative;
     z-index: 10;
     margin-top: -131px;
@@ -117,7 +142,7 @@
     color: #7F3A14;
   }
   .t6 {
-    margin-left: 230px;
+    margin-left: 439px;
     position: relative;
     z-index: 11;
     /*margin-top: 351px;*/
@@ -127,7 +152,7 @@
     color: #301607;
   }
   .t7 {
-    margin-left: 232px;
+    margin-left: 449px;
     position: relative;
     z-index: 12;
 
@@ -263,7 +288,7 @@
     font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
     font-size: 20px;
     color: #6F3311;
-    margin-left: -327px;
+    margin-left: -120px;
   }
   .t14 {
     position: relative;
@@ -272,7 +297,7 @@
     font-family: "Apoc-Apoc-Full-Variable-Trial", serif;
     font-size: 22px;
     color: #6F3311;
-    margin-left: -325px;
+    margin-left: -108px;
   }
   .book16 img{
     width: 242.95px;
@@ -306,7 +331,7 @@
     font-family: "Book Antiqua", serif;
     font-size: 15px;
     color: #4F6267;
-    margin-left: -329px;
+    margin-left: -113px;
     line-height: 0.9;
   }
   .t16 {
@@ -316,7 +341,7 @@
     font-family: "Book Antiqua", serif;
     font-size: 21px;
     color: #4F6267;
-    margin-left: -333px;
+    margin-left: -120px;
     line-height: 0.9;
   }
   .t17 {
@@ -326,7 +351,7 @@
     font-family: "Book Antiqua", serif;
     font-size: 15px;
     color: #4F6267;
-    margin-left: -327px;
+    margin-left: -123px;
     line-height: 1.2;
   }
   .book19 {
@@ -385,7 +410,7 @@
     margin-right: -176px;
     position: relative;
     z-index: 41;
-    margin-top: 325px;
+    margin-top: 377px;
     font-family: "Didona", sans-serif;
     font-size: 17px;
     color: #FFFFFF;
@@ -446,7 +471,7 @@
   }
   .book28{
     margin-left: 17px;
-    margin-top: -172px;
+    margin-top: -232px;
     transition: rotate(77deg);
   }
   .book28 img{
@@ -455,8 +480,8 @@
   }
   .book29 {
     transform: rotate(90deg);
-    margin-left: -587px;
-    margin-top: 461px;
+    margin-left: -276px;
+    margin-top: 209px;
   }
   .book29 img{
     width: 796.24px;
@@ -536,8 +561,8 @@
     display: none;
   }
   .book41 {
-    margin-left: -45px;
-    margin-top: -68.62px;
+    margin-left: 142px;
+    margin-top: 10.38px;
   }
   .cont9 img{
     width: 331.21px;
@@ -617,7 +642,7 @@
   }
   .book48 {
     transform: rotate(0deg);
-    margin-left: -72px;
+    margin-left: 132px;
     margin-top: -2px;
   }
   .book48 img{
@@ -625,7 +650,7 @@
     height: 768.29px;
   }
   .b5 {
-    margin-left: -292px;
+    margin-left: 6px;
     margin-top: 40.62px;
   }
   .cont12 img{
@@ -635,7 +660,7 @@
   .t28 {
     position: relative;
     z-index: 69;
-    margin-top: -340px;
+    margin-top: -426px;
     font-family: "Times New Roman", serif;
     font-size: 18px;
     color: #E9CFC1;
@@ -661,7 +686,7 @@
   }
   .book50 {
     margin-left: 140px;
-    margin-top: -122px;
+    margin-top: 10px;
   }
   .book50 img{
     width: 305.77px;
@@ -669,7 +694,7 @@
   }
   .book53 {
     margin-left: 66px;
-    margin-top: -136px;
+    margin-top: -8px;
   }
   .book53 img{
     width: 451.43px;
@@ -712,8 +737,8 @@
     margin-left: 98px;
   }
   .book54 {
-    margin-left: 247px;
-    margin-top: 307px;
+    margin-left: 148px;
+    margin-top: 388px;
   }
   .cont13 img{
     width: 331.05px;
@@ -780,7 +805,7 @@
     height: 500.53px;
   }
   .book62 {
-    margin-left: 251px;
+    margin-left: 149px;
     margin-top: 112px;
   }
   .book63 {
@@ -863,7 +888,7 @@
     height: 415.3px;
   }
   .b6 {
-    margin-left: 87px;
+    margin-left: 265px;
     margin-top: 399.62px;
   }
   .book68 {
