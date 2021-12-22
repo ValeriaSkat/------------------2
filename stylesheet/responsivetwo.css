@@ -74,8 +74,8 @@
     height: 346.66px;
   }
   .p1 {
-    margin-left: 486px;
-    margin-top: 377px;
+    margin-left: -6px;
+    margin-top: 5px;
   }
   .book4 {
     margin-left: 31px;
@@ -103,8 +103,8 @@
     height: 160.85px;
   }
   .p2 {
-    margin-left: 143px;
-    margin-top: -594px;
+    margin-left: -13px;
+    margin-top: -58px;
   }
   .t5 {
     margin-left: 228px;
@@ -226,12 +226,10 @@
     height: 55.5px;
   }
   .book11 img{
-    width: 492.66px;
-    height: 507.26px;
+    display: none;
   }
   .book11 {
-    margin-left: 284px;
-    margin-top: -536px;
+    display: none;
   }
   .cont4 img{
     width: 331.05px;
