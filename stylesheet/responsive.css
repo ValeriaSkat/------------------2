@@ -1028,20 +1028,22 @@
     margin-top: -137px;
   }
   .p1 img{
-    width: 265.94px;
-    height:265.94px;
+    width: 246.84px;
+    height: 246.84px;
+    margin-left: -11px;
+    margin-top: -35px;
+  }
+  .p1 {
     margin-left: -11px;
     margin-top: -35px;
   }
   .book4 {
     margin-left: 812px;
-    position: relative;
-    z-index: 9;
     margin-top: -506px;
   }
   .cont2 img{
-    width: 334px;
-    height: 505px;
+    width: 326.57px;
+    height: 493.76px;
   }
   .t39 {
     position: relative;
@@ -1050,7 +1052,7 @@
     margin-top: -678px;
     font-family: "Century", serif;
     font-weight: 100;
-    font-size: 29px;
+    font-size: 30px;
   }
   .cont1 img{
     width: 288.44px;
@@ -1059,6 +1061,8 @@
   .p2 img{
     width: 158.04px;
     height: 133.62px;
+  }
+  .p2 {
     margin-left: 35px;
     margin-top: 1px;
   }
