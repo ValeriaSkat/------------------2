@@ -1,4 +1,5 @@
-@media (min-width: 414px) {
+@media (min-width: 414px;
+        max-width: 1920px;) {
   body {
     overflow-x: hidden;
     min-width: 414px;
@@ -99,8 +100,8 @@
     font-size: 30px;
   }
   .cont1 img{
-    width: 288.44px;
-    height: 436.11px;
+    width: 331.21px;
+    height: 500.78px;
   }
   .p2 img{
     width: 113.28px;
