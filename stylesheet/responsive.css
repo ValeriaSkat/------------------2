@@ -1571,7 +1571,7 @@ height: 372px;
     z-index: 62;
     margin-top: -450px;
     font-family: "Spectral", serif;
-    font-size: 29px;
+    font-size: 28px;
     color: #B7D7E0;
     margin-left: 107px;
   }
@@ -1580,7 +1580,7 @@ height: 372px;
     z-index: 62;
     margin-top: -1px;
     font-family: "Spectral", serif;
-    font-size: 29px;
+    font-size: 28px;
     color: #B7D7E0;
     margin-left: 112px;
   }
@@ -1589,7 +1589,7 @@ height: 372px;
     z-index: 63;
     margin-top: 6px;
     font-family: "Times New Roman", serif;
-    font-size: 14px;
+    font-size: 15px;
     color: #B7D7E0;
     margin-left: 89px;
   }
@@ -1598,44 +1598,43 @@ height: 372px;
     margin-top: -6px;
   }
   .book42 img{
-    width: 164.08px;
-    height: 134px;
+    width: 161.17px;
+    height: 131.62px;
   }
   .book43 {
     margin-left: 151px;
     margin-top: 125px;
   }
   .book43 img{
-    width: 119.27px;
-    height: 97.47px;
+    width: 117.16px;
+    height: 95.75px;
   }
   .book44 {
     margin-left: 28px;
     margin-top: 197px;
   }
   .book44 img{
-    width: 113.42px;
-    height: 92.39px;
+    width: 111.41px;
+    height: 90.75px;
   }
   .book45 {
     margin-left: 38px;
     margin-top: 25px;
   }
   .book45 img{
-    width: 237px;
-    height: 287px;
+    width: 232.8px;
+    height: 281.91px;
   }
   .book46 {
     margin-left: 223px;
     margin-top: 119px;
   }
   .cont10 img{
-    width: 509px;
-    height: 394px;
+    width: 640.84px;
+    height: 496.05px;
   }
   .cont11 img{
-    width: 175px;
-    height: 285px;
+    display: none;
   }
   .book47 {
     margin-left: 75px;
@@ -1646,20 +1645,24 @@ height: 372px;
     margin-left: 590px;
     margin-top: -306px;
   }
+  .book48 img{
+    width: 328.35px;
+height: 608.96px;
+  }
   .b5 {
     margin-left: 1063px;
     margin-top: -212.38px;
   }
   .cont12 img{
-    width: 508px;
-  height: 375px;
+    width: 470.52px;
+    height: 347.33px;
   }
   .t28 {
     position: relative;
     z-index: 69;
     margin-top: -361px;
     font-family: "Times New Roman", serif;
-    font-size: 10px;
+    font-size: 16px;
     color: #E9CFC1;
     margin-left: 93px;
   }
@@ -1668,7 +1671,7 @@ height: 372px;
     z-index: 70;
     margin-top: 15px;
     font-family: "Times New Roman", serif;
-    font-size: 18px;
+    font-size: 20px;
     color: #E9CFC1;
     margin-left: 93px;
   }
@@ -1677,7 +1680,7 @@ height: 372px;
     z-index: 71;
     margin-top: 6px;
     font-family: "Times New Roman", serif;
-    font-size: 18px;
+    font-size: 20px;
     color: #E9CFC1;
     margin-left: 93px;
   }
@@ -1686,23 +1689,23 @@ height: 372px;
     margin-top: 14px;
   }
   .book50 img{
-    width: 254px;
-    height: 238px;
+    width: 235.26px;
+    height: 220.44px;
   }
   .book53 {
     margin-left: 66px;
     margin-top: -11px;
   }
   .book53 img{
-    width: 375px;
-    height: 259px;
+    width: 347.33px;
+    height: 239.89px;
   }
   .t31 {
     position: relative;
     z-index: 77;
     margin-top: -447px;
     font-family: "Times New Roman", serif;
-    font-size: 34px;
+    font-size: 35px;
     color: #ECEFE7;
     margin-left: 87px;
   }
@@ -1711,7 +1714,7 @@ height: 372px;
     z-index: 78;
     margin-top: -1px;
     font-family: "Times New Roman", serif;
-    font-size: 34px;
+    font-size: 35px;
     color: #ECEFE7;
     margin-left: 74px;
   }
@@ -1720,7 +1723,7 @@ height: 372px;
     z-index: 79;
     margin-top: -1px;
     font-family: "Times New Roman", serif;
-    font-size: 34px;
+    font-size: 35px;
     color: #ECEFE7;
     margin-left: 109px;
   }
@@ -1729,7 +1732,7 @@ height: 372px;
     z-index: 80;
     margin-top: 11px;
     font-family: "Times New Roman", serif;
-    font-size: 19px;
+    font-size: 20px;
     color: #ECEFE7;
     margin-left: 104px;
   }
@@ -1738,64 +1741,64 @@ height: 372px;
     margin-top: -82px;
   }
   .cont13 img{
-    width: 334px;
-    height: 505px;
+    width: 308.4px;
+    height: 466.29px;
   }
   .book55 {
     margin-left: 65px;
     margin-top: -118px;
   }
   .book55 img{
-    width: 166px;
-    height: 339px;
+    width: 153.27px;
+    height: 313.01px;
   }
   .book56 {
     margin-left: 185px;
     margin-top: -154px;
   }
   .book56 img{
-    width: 68px;
-    height: 68px;
+    width: 84.95px;
+    height: 84.95px;
   }
   .book57 {
     margin-left: 177px;
     margin-top: -261px;
   }
   .book57 img{
-    width: 92px;
-    height: 92px;
+    width: 84.95px;
+    height: 84.95px;
   }
   .book58 {
     margin-left: 34px;
     margin-top: 54px;
   }
   .book58 img{
-    width: 92px;
-    height: 92px;
+    width: 129.27px;
+    height: 129.27px;
   }
   .book59 {
     margin-left: 33px;
     margin-top: -38px;
   }
   .book59 img{
-    width: 221px;
-    height: 87px;
+    width: 209.6px;
+    height: 90.49px;
   }
   .book60 {
     margin-left: 129px;
     margin-top: -151px;
   }
   .book60 img{
-    width: 132px;
-    height: 32px;
+    width: 132.96px;
+    height: 29.55px;
   }
   .book61 {
     margin-left: 70px;
     margin-top: 126px;
   }
   .book61 img{
-    width: 152px;
-    height: 34px;
+    width: 140.35px;
+    height: 31.39px;
   }
   .cont14 img{
     width: 334px;
