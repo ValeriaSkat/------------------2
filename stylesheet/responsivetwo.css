@@ -1,7 +1,7 @@
-@media (max-width: 414px) {
+@media (min-width: 414px) {
   body {
     overflow-x: hidden;
-    max-width: 414px;
+    min-width: 414px;
     margin: 0 auto;
   }
   .gif1 img{
