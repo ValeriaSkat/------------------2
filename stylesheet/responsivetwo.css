@@ -162,8 +162,9 @@
     height: 132px;
   }
   .p3 {
-    margin-left: 205px;
-    margin-top: -1099px;
+    margin-left: 207px;
+    margin-top: -1080px;
+    transform: rotate(290deg);
   }
   .p3 img{
     width: 108.89px;
@@ -237,7 +238,7 @@
   }
   .book12 {
       margin-left: -49px;
-      margin-top: -393px;
+      margin-top: -672px;
   }
   .t11 {
     position: relative;
@@ -633,8 +634,7 @@
     margin-top: 81px;
   }
   .cont10 img{
-    width: 235.02px;
-    height: 284.6px;
+    display: none;
   }
   .cont11 img{
     display: none;
@@ -644,12 +644,12 @@
   }
   .book48 {
     transform: rotate(0deg);
-    margin-left: 669px;
-    margin-top: -75px;
+    margin-left: -72px;
+    margin-top: -2px;
   }
   .book48 img{
-    width: 562px;
-    height: 1042.29px;
+    width: 414.26px;
+    height: 768.29px;
   }
   .b5 {
     margin-left: -40px;
