@@ -30,7 +30,7 @@ body {
   font-size: 28px;
 }
 .book1 {
-  margin-left: 401.18px;
+  margin-left: 396px;
   position: relative;
   z-index: 1;
   margin-top: -479px;
@@ -81,8 +81,7 @@ body {
   animation: walk 2s alternate infinite;
 }
 .p1 {
-  width: 233.01px;
-  height: 233.01px;
+
   z-index: 7;
   position: relative;
   margin-left: 114px;
@@ -585,7 +584,6 @@ body {
   z-index: 60;
   margin-left: -61px;
   margin-top: 269.62px;
-
 }
 .book41 {
   z-index: 61;
@@ -662,7 +660,7 @@ body {
 }
 .book48 {
   z-index: 68;
-  margin-left: 1371px;
+  margin-left: 702px;
   margin-top: -602px;
 }
 .b5 {
@@ -885,7 +883,7 @@ body {
   margin-top: -428px;
   font-family: "Century", serif;
   font-weight: 100;
-  font-size: 28px;
+  font-size: 23px;
 }
 .b6 {
   margin-left: 87px;
