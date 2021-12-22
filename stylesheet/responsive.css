@@ -977,10 +977,14 @@
     margin-top: -470px;
   }
   .book2 img{
-    width: 429px;
-    height: 255px;
+    width: 370.48px;
+    height: 220.21px;
     position: absolute;
     z-index: 3;
+    margin-left: 0px;
+    margin-top: -16px;
+  }
+  .book2 {
     margin-left: 0px;
     margin-top: -16px;
   }
@@ -992,7 +996,7 @@
     margin-top: -478px;
     font-family: "Century", serif;
     font-weight: 100;
-    font-size: 44px;
+    font-size: 37px;
     color: #33374B;
   }
   .t3 {
@@ -1002,7 +1006,7 @@
     margin-top: 11px;
     font-family: "Century", serif;
     font-weight: 100;
-    font-size: 17px;
+    font-size: 18px;
     color: #33374B;
   }
   .t4 {
@@ -1016,10 +1020,8 @@
     color: #33374B;
   }
   .book3 img{
-    width: 266.18px;
-    height: 121.61px;
-    margin-right: -200px;
-    margin-top: -212px;
+    width: 229.87px;
+    height: 105.02px;
   }
   .book3 {
     margin-right: -16px;
