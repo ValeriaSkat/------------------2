@@ -1,8 +1,7 @@
-@media (min-width: 414px;
-        max-width: 1920px;) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px){
   body {
-    overflow-x: hidden;
     min-width: 414px;
+    overflow-x: hidden;
     margin: 0 auto;
   }
   .gif1 img{
@@ -26,10 +25,6 @@
   .book2 img{
     width: 327.65px;
     height: 247.9px;
-    position: absolute;
-    z-index: 3;
-    margin-left: 0px;
-    margin-top: -16px;
   }
   .book2 {
     margin-left: -41px;
@@ -75,8 +70,8 @@
     margin-top: -109px;
   }
   .p1 img{
-    width: 246.84px;
-    height: 246.84px;
+    width: 346.66px;
+    height: 346.66px;
   }
   .p1 {
     margin-left: 486px;
@@ -87,8 +82,8 @@
     margin-top: -188px;
   }
   .cont2 img{
-    width: 326.57px;
-    height: 493.76px;
+    width: 331.05px;
+    height: 529.69px;
   }
   .t39 {
     position: relative;
@@ -97,15 +92,15 @@
     margin-top: 114px;
     font-family: "Century", serif;
     font-weight: 100;
-    font-size: 30px;
+    font-size: 23px;
   }
   .cont1 img{
     width: 331.21px;
     height: 500.78px;
   }
   .p2 img{
-    width: 113.28px;
-    height: 95.78px;
+    width: 190.25px;
+    height: 160.85px;
   }
   .p2 {
     margin-left: 143px;
@@ -118,7 +113,7 @@
     margin-top: -131px;
     font-family: "Spectral", serif;
     font-weight: 200;
-    font-size: 16px;
+    font-size: 15px;
     color: #7F3A14;
   }
   .t6 {
@@ -128,7 +123,7 @@
     /*margin-top: 351px;*/
     font-family: "Spectral", serif;
     font-weight: 200;
-    font-size: 25px;
+    font-size: 23px;
     color: #301607;
   }
   .t7 {
@@ -139,12 +134,12 @@
     /*margin-top: 351px;*/
     font-family: "Spectral", serif;
     font-weight: 200;
-    font-size: 16px;
+    font-size: 15px;
     color: #7F3A14;
   }
   .book5 img{
-    width: 228.7px;
-    height: 242px;
+    width: 252px;
+    height: 264.32px;
   }
   .book5 {
     margin-left: 58px;
@@ -155,29 +150,29 @@
     margin-left: 139px;
   }
   .book6 img{
-    width: 164px;
-    height: 117px;
+    width: 181px;
+    height: 132px;
   }
   .book7 {
     margin-top: 30px;
     margin-left: 20px;
   }
   .book7 img{
-    width: 148px;
-    height: 106px;
+    width: 181px;
+    height: 132px;
   }
   .p3 {
     margin-left: 408px;
     margin-top: -1343px;
   }
   .p3 img{
-    width: 121.11px;
-height: 372px;
+    width: 108.89px;
+    height: 334.47px;
 
   }
   .cont3 img{
-    width: 327.39px;
-    height: 495.01px;
+    width: 331.05px;
+    height: 500.53px;
   }
   .book8 {
     margin-left: 26.18px;
@@ -189,7 +184,7 @@ height: 372px;
     z-index: 17;
     font-family: "Apoc", serif;
     font-weight: 500;
-    font-size: 32px;
+    font-size: 28px;
     color: #C48643;
   }
   .t9 {
